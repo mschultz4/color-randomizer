@@ -1,0 +1,7457 @@
+module.exports = [{
+    name: "AirForceblue",
+    hex: "#5d8aa8",
+    red: "93",
+    green: "138",
+    blue: "168",
+    hue: "204",
+    saturation: "30.10%",
+    lightness: "51.20%"
+}, {
+    name: "Aliceblue",
+    hex: "#f0f8ff",
+    red: "240",
+    green: "248",
+    blue: "255",
+    hue: "208",
+    saturation: "100%",
+    lightness: "97.10%"
+}, {
+    name: "Alizarincrimson",
+    hex: "#e32636",
+    red: "227",
+    green: "38",
+    blue: "54",
+    hue: "354.9",
+    saturation: "77.10%",
+    lightness: "52%"
+}, {
+    name: "Almond",
+    hex: "#efdecd",
+    red: "239",
+    green: "222",
+    blue: "205",
+    hue: "30",
+    saturation: "51.50%",
+    lightness: "87.10%"
+
+}, {
+    name: "Amaranth",
+    hex: "#e52b50",
+    red: "229",
+    green: "43",
+    blue: "80",
+    hue: "348.1",
+    saturation: "78.20%",
+    lightness: "53.30%"
+
+}, {
+    name: "Amber",
+    hex: "#ffbf00",
+    red: "255",
+    green: "191",
+    blue: "0",
+    hue: "44.9",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Americanrose",
+    hex: "#ff033e",
+    red: "255",
+    green: "3",
+    blue: "62",
+    hue: "346",
+    saturation: "100%",
+    lightness: "50.60%"
+
+}, {
+    name: "Amethyst",
+    hex: "#9966cc",
+    red: "153",
+    green: "102",
+    blue: "204",
+    hue: "270",
+    saturation: "50%",
+    lightness: "60%"
+
+}, {
+    name: "AndroidGreen",
+    hex: "#a4c639",
+    red: "164",
+    green: "198",
+    blue: "57",
+    hue: "74.5",
+    saturation: "55.30%",
+    lightness: "50%"
+
+}, {
+    name: "Anti-flashwhite",
+    hex: "#f2f3f4",
+    red: "242",
+    green: "243",
+    blue: "244",
+    hue: "210",
+    saturation: "8.30%",
+    lightness: "95.30%"
+
+}, {
+    name: "Antiquebrass",
+    hex: "#cd9575",
+    red: "205",
+    green: "149",
+    blue: "117",
+    hue: "21.8",
+    saturation: "46.80%",
+    lightness: "63.10%"
+
+}, {
+    name: "Antiquefuchsia",
+    hex: "#915c83",
+    red: "145",
+    green: "92",
+    blue: "131",
+    hue: "315.8",
+    saturation: "22.40%",
+    lightness: "46.50%"
+
+}, {
+    name: "Antiquewhite",
+    hex: "#faebd7",
+    red: "250",
+    green: "235",
+    blue: "215",
+    hue: "34.3",
+    saturation: "77.80%",
+    lightness: "91.20%"
+
+}, {
+    name: "Ao",
+    hex: "#008000",
+    red: "0",
+    green: "128",
+    blue: "0",
+    hue: "120",
+    saturation: "100%",
+    lightness: "25.10%"
+
+}, {
+    name: "Applegreen",
+    hex: "#8db600",
+    red: "141",
+    green: "182",
+    blue: "0",
+    hue: "73.5",
+    saturation: "100%",
+    lightness: "35.70%"
+
+}, {
+    name: "Apricot",
+    hex: "#fbceb1",
+    red: "251",
+    green: "206",
+    blue: "177",
+    hue: "23.5",
+    saturation: "90.20%",
+    lightness: "83.90%"
+
+}, {
+    name: "Aqua",
+    hex: "#00ffff",
+    red: "0",
+    green: "255",
+    blue: "255",
+    hue: "180",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Aquamarine",
+    hex: "#7fffd4",
+    red: "127",
+    green: "255",
+    blue: "212",
+    hue: "159.8",
+    saturation: "100%",
+    lightness: "74.90%"
+
+}, {
+    name: "Armygreen",
+    hex: "#4b5320",
+    red: "75",
+    green: "83",
+    blue: "32",
+    hue: "69.4",
+    saturation: "44.30%",
+    lightness: "22.50%"
+
+}, {
+    name: "Arylideyellow",
+    hex: "#e9d66b",
+    red: "233",
+    green: "214",
+    blue: "107",
+    hue: "51",
+    saturation: "74.10%",
+    lightness: "66.70%"
+
+}, {
+    name: "Ashgrey",
+    hex: "#b2beb5",
+    red: "178",
+    green: "190",
+    blue: "181",
+    hue: "135",
+    saturation: "8.50%",
+    lightness: "72.20%"
+
+}, {
+    name: "Asparagus",
+    hex: "#87a96b",
+    red: "135",
+    green: "169",
+    blue: "107",
+    hue: "92.9",
+    saturation: "26.50%",
+    lightness: "54.10%"
+
+}, {
+    name: "Atomictangerine",
+    hex: "#ff9966",
+    red: "255",
+    green: "153",
+    blue: "102",
+    hue: "20",
+    saturation: "100%",
+    lightness: "70%"
+
+}, {
+    name: "Auburn",
+    hex: "#a52a2a",
+    red: "165",
+    green: "42",
+    blue: "42",
+    hue: "0",
+    saturation: "59.40%",
+    lightness: "40.60%"
+
+}, {
+    name: "Aureolin",
+    hex: "#fdee00",
+    red: "253",
+    green: "238",
+    blue: "0",
+    hue: "56.4",
+    saturation: "100%",
+    lightness: "49.60%"
+
+}, {
+    name: "AuroMetalSaurus",
+    hex: "#6e7f80",
+    red: "110",
+    green: "127",
+    blue: "128",
+    hue: "183.3",
+    saturation: "7.60%",
+    lightness: "46.70%"
+
+}, {
+    name: "Awesome",
+    hex: "#ff2052",
+    red: "255",
+    green: "32",
+    blue: "82",
+    hue: "346.5",
+    saturation: "100%",
+    lightness: "56.30%"
+
+}, {
+    name: "Azure",
+    hex: "#007fff",
+    red: "0",
+    green: "127",
+    blue: "255",
+    hue: "210.1",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Azuremist/web",
+    hex: "#f0ffff",
+    red: "240",
+    green: "255",
+    blue: "255",
+    hue: "180",
+    saturation: "100%",
+    lightness: "97.10%"
+
+}, {
+    name: "Babyblue",
+    hex: "#89cff0",
+    red: "137",
+    green: "207",
+    blue: "240",
+    hue: "199.2",
+    saturation: "77.40%",
+    lightness: "73.90%"
+
+}, {
+    name: "Babyblueeyes",
+    hex: "#a1caf1",
+    red: "161",
+    green: "202",
+    blue: "241",
+    hue: "209.3",
+    saturation: "74.10%",
+    lightness: "78.80%"
+
+}, {
+    name: "Babypink",
+    hex: "#f4c2c2",
+    red: "244",
+    green: "194",
+    blue: "194",
+    hue: "0",
+    saturation: "69.40%",
+    lightness: "85.90%"
+
+}, {
+    name: "BallBlue",
+    hex: "#21abcd",
+    red: "33",
+    green: "171",
+    blue: "205",
+    hue: "191.9",
+    saturation: "72.30%",
+    lightness: "46.70%"
+
+}, {
+    name: "BananaMania",
+    hex: "#fae7b5",
+    red: "250",
+    green: "231",
+    blue: "181",
+    hue: "43.5",
+    saturation: "87.30%",
+    lightness: "84.50%"
+
+}, {
+    name: "Bananayellow",
+    hex: "#ffe135",
+    red: "255",
+    green: "225",
+    blue: "53",
+    hue: "51.1",
+    saturation: "100%",
+    lightness: "60.40%"
+
+}, {
+    name: "Battleshipgrey",
+    hex: "#848482",
+    red: "132",
+    green: "132",
+    blue: "130",
+    hue: "60",
+    saturation: "0.80%",
+    lightness: "51.40%"
+
+}, {
+    name: "Bazaar",
+    hex: "#98777b",
+    red: "152",
+    green: "119",
+    blue: "123",
+    hue: "352.7",
+    saturation: "13.80%",
+    lightness: "53.10%"
+
+}, {
+    name: "Beaublue",
+    hex: "#bcd4e6",
+    red: "188",
+    green: "212",
+    blue: "230",
+    hue: "205.7",
+    saturation: "45.70%",
+    lightness: "82%"
+
+}, {
+    name: "Beaver",
+    hex: "#9f8170",
+    red: "159",
+    green: "129",
+    blue: "112",
+    hue: "21.7",
+    saturation: "19.70%",
+    lightness: "53.10%"
+
+}, {
+    name: "Beige",
+    hex: "#f5f5dc",
+    red: "245",
+    green: "245",
+    blue: "220",
+    hue: "60",
+    saturation: "55.60%",
+    lightness: "91.20%"
+
+}, {
+    name: "Bisque",
+    hex: "#ffe4c4",
+    red: "255",
+    green: "228",
+    blue: "196",
+    hue: "32.5",
+    saturation: "100%",
+    lightness: "88.40%"
+
+}, {
+    name: "Bistre",
+    hex: "#3d2b1f",
+    red: "61",
+    green: "43",
+    blue: "31",
+    hue: "24",
+    saturation: "32.60%",
+    lightness: "18%"
+
+}, {
+    name: "Bittersweet",
+    hex: "#fe6f5e",
+    red: "254",
+    green: "111",
+    blue: "94",
+    hue: "6.4",
+    saturation: "98.80%",
+    lightness: "68.20%"
+
+}, {
+    name: "Black",
+    hex: "#000000",
+    red: "0",
+    green: "0",
+    blue: "0",
+    hue: "0",
+    saturation: "0%",
+    lightness: "0%"
+
+}, {
+    name: "BlanchedAlmond",
+    hex: "#ffebcd",
+    red: "255",
+    green: "235",
+    blue: "205",
+    hue: "36",
+    saturation: "100%",
+    lightness: "90.20%"
+
+}, {
+    name: "BleudeFrance",
+    hex: "#318ce7",
+    red: "49",
+    green: "140",
+    blue: "231",
+    hue: "210",
+    saturation: "79.10%",
+    lightness: "54.90%"
+
+}, {
+    name: "BlizzardBlue",
+    hex: "#ace5ee",
+    red: "172",
+    green: "229",
+    blue: "238",
+    hue: "188.2",
+    saturation: "66%",
+    lightness: "80.40%"
+
+}, {
+    name: "Blond",
+    hex: "#faf0be",
+    red: "250",
+    green: "240",
+    blue: "190",
+    hue: "50",
+    saturation: "85.70%",
+    lightness: "86.30%"
+
+}, {
+    name: "Blue",
+    hex: "#0000ff",
+    red: "0",
+    green: "0",
+    blue: "255",
+    hue: "240",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "BlueBell",
+    hex: "#a2a2d0",
+    red: "162",
+    green: "162",
+    blue: "208",
+    hue: "240",
+    saturation: "32.90%",
+    lightness: "72.50%"
+
+}, {
+    name: "BlueGray",
+    hex: "#6699cc",
+    red: "102",
+    green: "153",
+    blue: "204",
+    hue: "210",
+    saturation: "50%",
+    lightness: "60%"
+
+}, {
+    name: "Bluegreen",
+    hex: "#0d98ba",
+    red: "13",
+    green: "152",
+    blue: "186",
+    hue: "191.8",
+    saturation: "86.90%",
+    lightness: "39%"
+
+}, {
+    name: "Bluepurple",
+    hex: "#8a2be2",
+    red: "138",
+    green: "43",
+    blue: "226",
+    hue: "271.1",
+    saturation: "75.90%",
+    lightness: "52.70%"
+
+}, {
+    name: "Blueviolet",
+    hex: "#8a2be2",
+    red: "138",
+    green: "43",
+    blue: "226",
+    hue: "271.1",
+    saturation: "75.90%",
+    lightness: "52.70%"
+
+}, {
+    name: "Blush",
+    hex: "#de5d83",
+    red: "222",
+    green: "93",
+    blue: "131",
+    hue: "342.3",
+    saturation: "66.20%",
+    lightness: "61.80%"
+
+}, {
+    name: "Bole",
+    hex: "#79443b",
+    red: "121",
+    green: "68",
+    blue: "59",
+    hue: "8.7",
+    saturation: "34.40%",
+    lightness: "35.30%"
+
+}, {
+    name: "Bondiblue",
+    hex: "#0095b6",
+    red: "0",
+    green: "149",
+    blue: "182",
+    hue: "190.9",
+    saturation: "100%",
+    lightness: "35.70%"
+
+}, {
+    name: "Bone",
+    hex: "#e3dac9",
+    red: "227",
+    green: "218",
+    blue: "201",
+    hue: "39.2",
+    saturation: "31.70%",
+    lightness: "83.90%"
+
+}, {
+    name: "BostonUniversityRed",
+    hex: "#cc0000",
+    red: "204",
+    green: "0",
+    blue: "0",
+    hue: "0",
+    saturation: "100%",
+    lightness: "40%"
+
+}, {
+    name: "Bottlegreen",
+    hex: "#006a4e",
+    red: "0",
+    green: "106",
+    blue: "78",
+    hue: "164.2",
+    saturation: "100%",
+    lightness: "20.80%"
+
+}, {
+    name: "Boysenberry",
+    hex: "#873260",
+    red: "135",
+    green: "50",
+    blue: "96",
+    hue: "327.5",
+    saturation: "45.90%",
+    lightness: "36.30%"
+
+}, {
+    name: "Brandeisblue",
+    hex: "#0070ff",
+    red: "0",
+    green: "112",
+    blue: "255",
+    hue: "213.6",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Brass",
+    hex: "#b5a642",
+    red: "181",
+    green: "166",
+    blue: "66",
+    hue: "52.2",
+    saturation: "46.60%",
+    lightness: "48.40%"
+
+}, {
+    name: "Brickred",
+    hex: "#cb4154",
+    red: "203",
+    green: "65",
+    blue: "84",
+    hue: "351.7",
+    saturation: "57%",
+    lightness: "52.50%"
+
+}, {
+    name: "Brightcerulean",
+    hex: "#1dacd6",
+    red: "29",
+    green: "172",
+    blue: "214",
+    hue: "193.6",
+    saturation: "76.10%",
+    lightness: "47.60%"
+
+}, {
+    name: "Brightgreen",
+    hex: "#66ff00",
+    red: "102",
+    green: "255",
+    blue: "0",
+    hue: "96",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Brightlavender",
+    hex: "#bf94e4",
+    red: "191",
+    green: "148",
+    blue: "228",
+    hue: "272.3",
+    saturation: "59.70%",
+    lightness: "73.70%"
+
+}, {
+    name: "Brightmaroon",
+    hex: "#c32148",
+    red: "195",
+    green: "33",
+    blue: "72",
+    hue: "345.6",
+    saturation: "71.10%",
+    lightness: "44.70%"
+
+}, {
+    name: "Brightpink",
+    hex: "#ff007f",
+    red: "255",
+    green: "0",
+    blue: "127",
+    hue: "330.1",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Brightturquoise",
+    hex: "#08e8de",
+    red: "8",
+    green: "232",
+    blue: "222",
+    hue: "177.3",
+    saturation: "93.30%",
+    lightness: "47.10%"
+
+}, {
+    name: "Brightube",
+    hex: "#d19fe8",
+    red: "209",
+    green: "159",
+    blue: "232",
+    hue: "281.1",
+    saturation: "61.30%",
+    lightness: "76.70%"
+
+}, {
+    name: "Brilliantlavender",
+    hex: "#f4bbff",
+    red: "244",
+    green: "187",
+    blue: "255",
+    hue: "290.3",
+    saturation: "100%",
+    lightness: "86.70%"
+
+}, {
+    name: "Brilliantrose",
+    hex: "#ff55a3",
+    red: "255",
+    green: "85",
+    blue: "163",
+    hue: "332.5",
+    saturation: "100%",
+    lightness: "66.70%"
+
+}, {
+    name: "Brinkpink",
+    hex: "#fb607f",
+    red: "251",
+    green: "96",
+    blue: "127",
+    hue: "348",
+    saturation: "95.10%",
+    lightness: "68%"
+
+}, {
+    name: "Britishracinggreen",
+    hex: "#004225",
+    red: "0",
+    green: "66",
+    blue: "37",
+    hue: "153.6",
+    saturation: "100%",
+    lightness: "12.90%"
+
+}, {
+    name: "Bronze",
+    hex: "#cd7f32",
+    red: "205",
+    green: "127",
+    blue: "50",
+    hue: "29.8",
+    saturation: "60.80%",
+    lightness: "50%"
+
+}, {
+    name: "Brown",
+    hex: "#a52a2a",
+    red: "165",
+    green: "42",
+    blue: "42",
+    hue: "0",
+    saturation: "59.40%",
+    lightness: "40.60%"
+
+}, {
+    name: "Bubblegum",
+    hex: "#ffc1cc",
+    red: "255",
+    green: "193",
+    blue: "204",
+    hue: "349.4",
+    saturation: "100%",
+    lightness: "87.80%"
+
+}, {
+    name: "Bubbles",
+    hex: "#e7feff",
+    red: "231",
+    green: "254",
+    blue: "255",
+    hue: "182.5",
+    saturation: "100%",
+    lightness: "95.30%"
+
+}, {
+    name: "Buff",
+    hex: "#f0dc82",
+    red: "240",
+    green: "220",
+    blue: "130",
+    hue: "49.1",
+    saturation: "78.60%",
+    lightness: "72.50%"
+
+}, {
+    name: "Bulgarianrose",
+    hex: "#480607",
+    red: "72",
+    green: "6",
+    blue: "7",
+    hue: "359.1",
+    saturation: "84.60%",
+    lightness: "15.30%"
+
+}, {
+    name: "Burgundy",
+    hex: "#800020",
+    red: "128",
+    green: "0",
+    blue: "32",
+    hue: "345",
+    saturation: "100%",
+    lightness: "25.10%"
+
+}, {
+    name: "Burlywood",
+    hex: "#deb887",
+    red: "222",
+    green: "184",
+    blue: "135",
+    hue: "33.8",
+    saturation: "56.90%",
+    lightness: "70%"
+
+}, {
+    name: "Burntorange",
+    hex: "#cc5500",
+    red: "204",
+    green: "85",
+    blue: "0",
+    hue: "25",
+    saturation: "100%",
+    lightness: "40%"
+
+}, {
+    name: "Burntsienna",
+    hex: "#e97451",
+    red: "233",
+    green: "116",
+    blue: "81",
+    hue: "13.8",
+    saturation: "77.60%",
+    lightness: "61.60%"
+
+}, {
+    name: "Burntumber",
+    hex: "#8a3324",
+    red: "138",
+    green: "51",
+    blue: "36",
+    hue: "8.8",
+    saturation: "58.60%",
+    lightness: "34.10%"
+
+}, {
+    name: "Byzantine",
+    hex: "#bd33a4",
+    red: "189",
+    green: "51",
+    blue: "164",
+    hue: "310.9",
+    saturation: "57.50%",
+    lightness: "47.10%"
+
+}, {
+    name: "Byzantium",
+    hex: "#702963",
+    red: "112",
+    green: "41",
+    blue: "99",
+    hue: "311",
+    saturation: "46.40%",
+    lightness: "30%"
+
+}, {
+    name: "CGBlue",
+    hex: "#007aa5",
+    red: "0",
+    green: "122",
+    blue: "165",
+    hue: "195.6",
+    saturation: "100%",
+    lightness: "32.40%"
+
+}, {
+    name: "CGRed",
+    hex: "#e03c31",
+    red: "224",
+    green: "60",
+    blue: "49",
+    hue: "3.8",
+    saturation: "73.80%",
+    lightness: "53.50%"
+
+}, {
+    name: "Cadet",
+    hex: "#536872",
+    red: "83",
+    green: "104",
+    blue: "114",
+    hue: "199.4",
+    saturation: "15.70%",
+    lightness: "38.60%"
+
+}, {
+    name: "Cadetblue",
+    hex: "#5f9ea0",
+    red: "95",
+    green: "158",
+    blue: "160",
+    hue: "181.8",
+    saturation: "25.50%",
+    lightness: "50%"
+
+}, {
+    name: "Cadetgrey",
+    hex: "#91a3b0",
+    red: "145",
+    green: "163",
+    blue: "176",
+    hue: "205.2",
+    saturation: "16.40%",
+    lightness: "62.90%"
+
+}, {
+    name: "Cadmiumgreen",
+    hex: "#006b3c",
+    red: "0",
+    green: "107",
+    blue: "60",
+    hue: "153.6",
+    saturation: "100%",
+    lightness: "21%"
+
+}, {
+    name: "Cadmiumorange",
+    hex: "#ed872d",
+    red: "237",
+    green: "135",
+    blue: "45",
+    hue: "28.1",
+    saturation: "84.20%",
+    lightness: "55.30%"
+
+}, {
+    name: "Cadmiumred",
+    hex: "#e30022",
+    red: "227",
+    green: "0",
+    blue: "34",
+    hue: "351",
+    saturation: "100%",
+    lightness: "44.50%"
+
+}, {
+    name: "Cadmiumyellow",
+    hex: "#fff600",
+    red: "255",
+    green: "246",
+    blue: "0",
+    hue: "57.9",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Cafeaulait",
+    hex: "#a67b5b",
+    red: "166",
+    green: "123",
+    blue: "91",
+    hue: "25.6",
+    saturation: "29.60%",
+    lightness: "50.40%"
+
+}, {
+    name: "Cafenoir",
+    hex: "#4b3621",
+    red: "75",
+    green: "54",
+    blue: "33",
+    hue: "30",
+    saturation: "38.90%",
+    lightness: "21.20%"
+
+}, {
+    name: "CalPolyPomonagreen",
+    hex: "#1e4d2b",
+    red: "30",
+    green: "77",
+    blue: "43",
+    hue: "136.6",
+    saturation: "43.90%",
+    lightness: "21%"
+
+}, {
+    name: "CambridgeBlue",
+    hex: "#a3c1ad",
+    red: "163",
+    green: "193",
+    blue: "173",
+    hue: "140",
+    saturation: "19.50%",
+    lightness: "69.80%"
+
+}, {
+    name: "Camel",
+    hex: "#c19a6b",
+    red: "193",
+    green: "154",
+    blue: "107",
+    hue: "32.8",
+    saturation: "41%",
+    lightness: "58.80%"
+
+}, {
+    name: "Camouflagegreen",
+    hex: "#78866b",
+    red: "120",
+    green: "134",
+    blue: "107",
+    hue: "91.1",
+    saturation: "11.20%",
+    lightness: "47.30%"
+
+}, {
+    name: "Canary",
+    hex: "#ffff99",
+    red: "255",
+    green: "255",
+    blue: "153",
+    hue: "60",
+    saturation: "100%",
+    lightness: "80%"
+
+}, {
+    name: "Canaryyellow",
+    hex: "#ffef00",
+    red: "255",
+    green: "239",
+    blue: "0",
+    hue: "56.2",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Candyapplered",
+    hex: "#ff0800",
+    red: "255",
+    green: "8",
+    blue: "0",
+    hue: "1.9",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Candypink",
+    hex: "#e4717a",
+    red: "228",
+    green: "113",
+    blue: "122",
+    hue: "355.3",
+    saturation: "68%",
+    lightness: "66.90%"
+
+}, {
+    name: "Capri",
+    hex: "#00bfff",
+    red: "0",
+    green: "191",
+    blue: "255",
+    hue: "195.1",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Caputmortuum",
+    hex: "#592720",
+    red: "89",
+    green: "39",
+    blue: "32",
+    hue: "7.4",
+    saturation: "47.10%",
+    lightness: "23.70%"
+
+}, {
+    name: "Cardinal",
+    hex: "#c41e3a",
+    red: "196",
+    green: "30",
+    blue: "58",
+    hue: "349.9",
+    saturation: "73.50%",
+    lightness: "44.30%"
+
+}, {
+    name: "Caribbeangreen",
+    hex: "#00cc99",
+    red: "0",
+    green: "204",
+    blue: "153",
+    hue: "165",
+    saturation: "100%",
+    lightness: "40%"
+
+}, {
+    name: "Carmine",
+    hex: "#ff0040",
+    red: "255",
+    green: "0",
+    blue: "64",
+    hue: "344.9",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Carminepink",
+    hex: "#eb4c42",
+    red: "235",
+    green: "76",
+    blue: "66",
+    hue: "3.6",
+    saturation: "80.90%",
+    lightness: "59%"
+
+}, {
+    name: "Carminered",
+    hex: "#ff0038",
+    red: "255",
+    green: "0",
+    blue: "56",
+    hue: "346.8",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Carnationpink",
+    hex: "#ffa6c9",
+    red: "255",
+    green: "166",
+    blue: "201",
+    hue: "336.4",
+    saturation: "100%",
+    lightness: "82.50%"
+
+}, {
+    name: "Carnelian",
+    hex: "#b31b1b",
+    red: "179",
+    green: "27",
+    blue: "27",
+    hue: "0",
+    saturation: "73.80%",
+    lightness: "40.40%"
+
+}, {
+    name: "Carolinablue",
+    hex: "#99badd",
+    red: "153",
+    green: "186",
+    blue: "221",
+    hue: "210.9",
+    saturation: "50%",
+    lightness: "73.30%"
+
+}, {
+    name: "Carrotorange",
+    hex: "#ed9121",
+    red: "237",
+    green: "145",
+    blue: "33",
+    hue: "32.9",
+    saturation: "85%",
+    lightness: "52.90%"
+
+}, {
+    name: "Celadon",
+    hex: "#ace1af",
+    red: "172",
+    green: "225",
+    blue: "175",
+    hue: "123.4",
+    saturation: "46.90%",
+    lightness: "77.80%"
+
+}, {
+    name: "Celeste",
+    hex: "#b2ffff",
+    red: "178",
+    green: "255",
+    blue: "255",
+    hue: "180",
+    saturation: "100%",
+    lightness: "84.90%"
+
+}, {
+    name: "Celestialblue",
+    hex: "#4997d0",
+    red: "73",
+    green: "151",
+    blue: "208",
+    hue: "205.3",
+    saturation: "59%",
+    lightness: "55.10%"
+
+}, {
+    name: "Cerise",
+    hex: "#de3163",
+    red: "222",
+    green: "49",
+    blue: "99",
+    hue: "342.7",
+    saturation: "72.40%",
+    lightness: "53.10%"
+
+}, {
+    name: "Cerisepink",
+    hex: "#ec3b83",
+    red: "236",
+    green: "59",
+    blue: "131",
+    hue: "335.6",
+    saturation: "82.30%",
+    lightness: "57.80%"
+
+}, {
+    name: "Cerulean",
+    hex: "#007ba7",
+    red: "0",
+    green: "123",
+    blue: "167",
+    hue: "195.8",
+    saturation: "100%",
+    lightness: "32.70%"
+
+}, {
+    name: "Ceruleanblue",
+    hex: "#2a52be",
+    red: "42",
+    green: "82",
+    blue: "190",
+    hue: "223.8",
+    saturation: "63.80%",
+    lightness: "45.50%"
+
+}, {
+    name: "Chamoisee",
+    hex: "#a0785a",
+    red: "160",
+    green: "120",
+    blue: "90",
+    hue: "25.7",
+    saturation: "28%",
+    lightness: "49%"
+
+}, {
+    name: "Champagne",
+    hex: "#fad6a5",
+    red: "250",
+    green: "214",
+    blue: "165",
+    hue: "34.6",
+    saturation: "89.50%",
+    lightness: "81.40%"
+
+}, {
+    name: "Charcoal",
+    hex: "#36454f",
+    red: "54",
+    green: "69",
+    blue: "79",
+    hue: "204",
+    saturation: "18.80%",
+    lightness: "26.10%"
+
+}, {
+    name: "Chartreuse",
+    hex: "#7fff00",
+    red: "127",
+    green: "255",
+    blue: "0",
+    hue: "90.1",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Cherry",
+    hex: "#de3163",
+    red: "222",
+    green: "49",
+    blue: "99",
+    hue: "342.7",
+    saturation: "72.40%",
+    lightness: "53.10%"
+
+}, {
+    name: "Cherryblossompink",
+    hex: "#ffb7c5",
+    red: "255",
+    green: "183",
+    blue: "197",
+    hue: "348.3",
+    saturation: "100%",
+    lightness: "85.90%"
+
+}, {
+    name: "Chestnut",
+    hex: "#cd5c5c",
+    red: "205",
+    green: "92",
+    blue: "92",
+    hue: "0",
+    saturation: "53.10%",
+    lightness: "58.20%"
+
+}, {
+    name: "Chocolate",
+    hex: "#d2691e",
+    red: "210",
+    green: "105",
+    blue: "30",
+    hue: "25",
+    saturation: "75%",
+    lightness: "47.10%"
+
+}, {
+    name: "Chromeyellow",
+    hex: "#ffa700",
+    red: "255",
+    green: "167",
+    blue: "0",
+    hue: "39.3",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Cinereous",
+    hex: "#98817b",
+    red: "152",
+    green: "129",
+    blue: "123",
+    hue: "12.4",
+    saturation: "12.30%",
+    lightness: "53.90%"
+
+}, {
+    name: "Cinnabar",
+    hex: "#e34234",
+    red: "227",
+    green: "66",
+    blue: "52",
+    hue: "4.8",
+    saturation: "75.80%",
+    lightness: "54.70%"
+
+}, {
+    name: "Cinnamon",
+    hex: "#d2691e",
+    red: "210",
+    green: "105",
+    blue: "30",
+    hue: "25",
+    saturation: "75%",
+    lightness: "47.10%"
+
+}, {
+    name: "Citrine",
+    hex: "#e4d00a",
+    red: "228",
+    green: "208",
+    blue: "10",
+    hue: "54.5",
+    saturation: "91.60%",
+    lightness: "46.70%"
+
+}, {
+    name: "Classicrose",
+    hex: "#fbcce7",
+    red: "251",
+    green: "204",
+    blue: "231",
+    hue: "325.5",
+    saturation: "85.50%",
+    lightness: "89.20%"
+
+}, {
+    name: "Cobalt",
+    hex: "#0047ab",
+    red: "0",
+    green: "71",
+    blue: "171",
+    hue: "215.1",
+    saturation: "100%",
+    lightness: "33.50%"
+
+}, {
+    name: "Cocoabrown",
+    hex: "#d2691e",
+    red: "210",
+    green: "105",
+    blue: "30",
+    hue: "25",
+    saturation: "75%",
+    lightness: "47.10%"
+
+}, {
+    name: "Coffee",
+    hex: "#6f4e37",
+    red: "111",
+    green: "78",
+    blue: "55",
+    hue: "24.6",
+    saturation: "33.70%",
+    lightness: "32.50%"
+
+}, {
+    name: "Columbiablue",
+    hex: "#9bddff",
+    red: "155",
+    green: "221",
+    blue: "255",
+    hue: "200.4",
+    saturation: "100%",
+    lightness: "80.40%"
+
+}, {
+    name: "Coolblack",
+    hex: "#002e63",
+    red: "0",
+    green: "46",
+    blue: "99",
+    hue: "212.1",
+    saturation: "100%",
+    lightness: "19.40%"
+
+}, {
+    name: "Coolgrey",
+    hex: "#8c92ac",
+    red: "140",
+    green: "146",
+    blue: "172",
+    hue: "228.8",
+    saturation: "16.20%",
+    lightness: "61.20%"
+
+}, {
+    name: "Copper",
+    hex: "#b87333",
+    red: "184",
+    green: "115",
+    blue: "51",
+    hue: "28.9",
+    saturation: "56.60%",
+    lightness: "46.10%"
+
+}, {
+    name: "Copperrose",
+    hex: "#996666",
+    red: "153",
+    green: "102",
+    blue: "102",
+    hue: "0",
+    saturation: "20%",
+    lightness: "50%"
+
+}, {
+    name: "Coquelicot",
+    hex: "#ff3800",
+    red: "255",
+    green: "56",
+    blue: "0",
+    hue: "13.2",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Coral",
+    hex: "#ff7f50",
+    red: "255",
+    green: "127",
+    blue: "80",
+    hue: "16.1",
+    saturation: "100%",
+    lightness: "65.70%"
+
+}, {
+    name: "Coralpink",
+    hex: "#f88379",
+    red: "248",
+    green: "131",
+    blue: "121",
+    hue: "4.7",
+    saturation: "90.10%",
+    lightness: "72.40%"
+
+}, {
+    name: "Coralred",
+    hex: "#ff4040",
+    red: "255",
+    green: "64",
+    blue: "64",
+    hue: "0",
+    saturation: "100%",
+    lightness: "62.50%"
+
+}, {
+    name: "Cordovan",
+    hex: "#893f45",
+    red: "137",
+    green: "63",
+    blue: "69",
+    hue: "355.1",
+    saturation: "37%",
+    lightness: "39.20%"
+
+}, {
+    name: "Corn",
+    hex: "#fbec5d",
+    red: "251",
+    green: "236",
+    blue: "93",
+    hue: "54.3",
+    saturation: "95.20%",
+    lightness: "67.50%"
+
+}, {
+    name: "CornellRed",
+    hex: "#b31b1b",
+    red: "179",
+    green: "27",
+    blue: "27",
+    hue: "0",
+    saturation: "73.80%",
+    lightness: "40.40%"
+
+}, {
+    name: "Cornflower",
+    hex: "#9aceeb",
+    red: "154",
+    green: "206",
+    blue: "235",
+    hue: "201.5",
+    saturation: "66.90%",
+    lightness: "76.30%"
+
+}, {
+    name: "Cornflowerblue",
+    hex: "#6495ed",
+    red: "100",
+    green: "149",
+    blue: "237",
+    hue: "218.5",
+    saturation: "79.20%",
+    lightness: "66.10%"
+
+}, {
+    name: "Cornsilk",
+    hex: "#fff8dc",
+    red: "255",
+    green: "248",
+    blue: "220",
+    hue: "48",
+    saturation: "100%",
+    lightness: "93.10%"
+
+}, {
+    name: "Cosmiclatte",
+    hex: "#fff8e7",
+    red: "255",
+    green: "248",
+    blue: "231",
+    hue: "42.5",
+    saturation: "100%",
+    lightness: "95.30%"
+
+}, {
+    name: "Cottoncandy",
+    hex: "#ffbcd9",
+    red: "255",
+    green: "188",
+    blue: "217",
+    hue: "334",
+    saturation: "100%",
+    lightness: "86.90%"
+
+}, {
+    name: "Cream",
+    hex: "#fffdd0",
+    red: "255",
+    green: "253",
+    blue: "208",
+    hue: "57.4",
+    saturation: "100%",
+    lightness: "90.80%"
+
+}, {
+    name: "Crimson",
+    hex: "#dc143c",
+    red: "220",
+    green: "20",
+    blue: "60",
+    hue: "348",
+    saturation: "83.30%",
+    lightness: "47.10%"
+
+}, {
+    name: "CrimsonRed",
+    hex: "#990000",
+    red: "153",
+    green: "0",
+    blue: "0",
+    hue: "0",
+    saturation: "100%",
+    lightness: "30%"
+
+}, {
+    name: "Crimsonglory",
+    hex: "#be0032",
+    red: "190",
+    green: "0",
+    blue: "50",
+    hue: "344.2",
+    saturation: "100%",
+    lightness: "37.30%"
+
+}, {
+    name: "Cyan",
+    hex: "#00ffff",
+    red: "0",
+    green: "255",
+    blue: "255",
+    hue: "180",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Daffodil",
+    hex: "#ffff31",
+    red: "255",
+    green: "255",
+    blue: "49",
+    hue: "60",
+    saturation: "100%",
+    lightness: "59.60%"
+
+}, {
+    name: "Dandelion",
+    hex: "#f0e130",
+    red: "240",
+    green: "225",
+    blue: "48",
+    hue: "55.3",
+    saturation: "86.50%",
+    lightness: "56.50%"
+
+}, {
+    name: "Darkblue",
+    hex: "#00008b",
+    red: "0",
+    green: "0",
+    blue: "139",
+    hue: "240",
+    saturation: "100%",
+    lightness: "27.30%"
+
+}, {
+    name: "Darkbrown",
+    hex: "#654321",
+    red: "101",
+    green: "67",
+    blue: "33",
+    hue: "30",
+    saturation: "50.70%",
+    lightness: "26.30%"
+
+}, {
+    name: "Darkbyzantium",
+    hex: "#5d3954",
+    red: "93",
+    green: "57",
+    blue: "84",
+    hue: "315",
+    saturation: "24%",
+    lightness: "29.40%"
+
+}, {
+    name: "Darkcandyapplered",
+    hex: "#a40000",
+    red: "164",
+    green: "0",
+    blue: "0",
+    hue: "0",
+    saturation: "100%",
+    lightness: "32.20%"
+
+}, {
+    name: "Darkcerulean",
+    hex: "#08457e",
+    red: "8",
+    green: "69",
+    blue: "126",
+    hue: "209",
+    saturation: "88.10%",
+    lightness: "26.30%"
+
+}, {
+    name: "Darkchestnut",
+    hex: "#986960",
+    red: "152",
+    green: "105",
+    blue: "96",
+    hue: "9.6",
+    saturation: "22.60%",
+    lightness: "48.60%"
+
+}, {
+    name: "Darkcoral",
+    hex: "#cd5b45",
+    red: "205",
+    green: "91",
+    blue: "69",
+    hue: "9.7",
+    saturation: "57.60%",
+    lightness: "53.70%"
+
+}, {
+    name: "Darkcyan",
+    hex: "#008b8b",
+    red: "0",
+    green: "139",
+    blue: "139",
+    hue: "180",
+    saturation: "100%",
+    lightness: "27.30%"
+
+}, {
+    name: "Darkelectricblue",
+    hex: "#536878",
+    red: "83",
+    green: "104",
+    blue: "120",
+    hue: "205.9",
+    saturation: "18.20%",
+    lightness: "39.80%"
+
+}, {
+    name: "Darkgoldenrod",
+    hex: "#b8860b",
+    red: "184",
+    green: "134",
+    blue: "11",
+    hue: "42.7",
+    saturation: "88.70%",
+    lightness: "38.20%"
+
+}, {
+    name: "Darkgray",
+    hex: "#a9a9a9",
+    red: "169",
+    green: "169",
+    blue: "169",
+    hue: "0",
+    saturation: "0%",
+    lightness: "66.30%"
+
+}, {
+    name: "Darkgreen",
+    hex: "#013220",
+    red: "1",
+    green: "50",
+    blue: "32",
+    hue: "158",
+    saturation: "96.10%",
+    lightness: "10%"
+
+}, {
+    name: "Darkjunglegreen",
+    hex: "#1a2421",
+    red: "26",
+    green: "36",
+    blue: "33",
+    hue: "162",
+    saturation: "16.10%",
+    lightness: "12.20%"
+
+}, {
+    name: "Darkkhaki",
+    hex: "#bdb76b",
+    red: "189",
+    green: "183",
+    blue: "107",
+    hue: "55.6",
+    saturation: "38.30%",
+    lightness: "58%"
+
+}, {
+    name: "Darklava",
+    hex: "#483c32",
+    red: "72",
+    green: "60",
+    blue: "50",
+    hue: "27.3",
+    saturation: "18%",
+    lightness: "23.90%"
+
+}, {
+    name: "Darklavender",
+    hex: "#734f96",
+    red: "115",
+    green: "79",
+    blue: "150",
+    hue: "270.4",
+    saturation: "31%",
+    lightness: "44.90%"
+
+}, {
+    name: "Darkmagenta",
+    hex: "#8b008b",
+    red: "139",
+    green: "0",
+    blue: "139",
+    hue: "300",
+    saturation: "100%",
+    lightness: "27.30%"
+
+}, {
+    name: "Darkmidnightblue",
+    hex: "#003366",
+    red: "0",
+    green: "51",
+    blue: "102",
+    hue: "210",
+    saturation: "100%",
+    lightness: "20%"
+
+}, {
+    name: "Darkolivegreen",
+    hex: "#556b2f",
+    red: "85",
+    green: "107",
+    blue: "47",
+    hue: "82",
+    saturation: "39%",
+    lightness: "30.20%"
+
+}, {
+    name: "Darkorange",
+    hex: "#ff8c00",
+    red: "255",
+    green: "140",
+    blue: "0",
+    hue: "32.9",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Darkorchid",
+    hex: "#9932cc",
+    red: "153",
+    green: "50",
+    blue: "204",
+    hue: "280.1",
+    saturation: "60.60%",
+    lightness: "49.80%"
+
+}, {
+    name: "Darkpastelblue",
+    hex: "#779ecb",
+    red: "119",
+    green: "158",
+    blue: "203",
+    hue: "212.1",
+    saturation: "44.70%",
+    lightness: "63.10%"
+
+}, {
+    name: "Darkpastelgreen",
+    hex: "#03c03c",
+    red: "3",
+    green: "192",
+    blue: "60",
+    hue: "138.1",
+    saturation: "96.90%",
+    lightness: "38.20%"
+
+}, {
+    name: "Darkpastelpurple",
+    hex: "#966fd6",
+    red: "150",
+    green: "111",
+    blue: "214",
+    hue: "262.7",
+    saturation: "55.70%",
+    lightness: "63.70%"
+
+}, {
+    name: "Darkpastelred",
+    hex: "#c23b22",
+    red: "194",
+    green: "59",
+    blue: "34",
+    hue: "9.4",
+    saturation: "70.20%",
+    lightness: "44.70%"
+
+}, {
+    name: "Darkpink",
+    hex: "#e75480",
+    red: "231",
+    green: "84",
+    blue: "128",
+    hue: "342",
+    saturation: "75.40%",
+    lightness: "61.80%"
+
+}, {
+    name: "Darkpowderblue",
+    hex: "#003399",
+    red: "0",
+    green: "51",
+    blue: "153",
+    hue: "220",
+    saturation: "100%",
+    lightness: "30%"
+
+}, {
+    name: "Darkraspberry",
+    hex: "#872657",
+    red: "135",
+    green: "38",
+    blue: "87",
+    hue: "329.7",
+    saturation: "56.10%",
+    lightness: "33.90%"
+
+}, {
+    name: "Darkred",
+    hex: "#8b0000",
+    red: "139",
+    green: "0",
+    blue: "0",
+    hue: "0",
+    saturation: "100%",
+    lightness: "27.30%"
+
+}, {
+    name: "Darksalmon",
+    hex: "#e9967a",
+    red: "233",
+    green: "150",
+    blue: "122",
+    hue: "15.1",
+    saturation: "71.60%",
+    lightness: "69.60%"
+
+}, {
+    name: "Darkscarlet",
+    hex: "#560319",
+    red: "86",
+    green: "3",
+    blue: "25",
+    hue: "344.1",
+    saturation: "93.30%",
+    lightness: "17.50%"
+
+}, {
+    name: "Darkseagreen",
+    hex: "#8fbc8f",
+    red: "143",
+    green: "188",
+    blue: "143",
+    hue: "120",
+    saturation: "25.10%",
+    lightness: "64.90%"
+
+}, {
+    name: "Darksienna",
+    hex: "#3c1414",
+    red: "60",
+    green: "20",
+    blue: "20",
+    hue: "0",
+    saturation: "50%",
+    lightness: "15.70%"
+
+}, {
+    name: "Darkslateblue",
+    hex: "#483d8b",
+    red: "72",
+    green: "61",
+    blue: "139",
+    hue: "248.5",
+    saturation: "39%",
+    lightness: "39.20%"
+
+}, {
+    name: "Darkslategray",
+    hex: "#2f4f4f",
+    red: "47",
+    green: "79",
+    blue: "79",
+    hue: "180",
+    saturation: "25.40%",
+    lightness: "24.70%"
+
+}, {
+    name: "Darkspringgreen",
+    hex: "#177245",
+    red: "23",
+    green: "114",
+    blue: "69",
+    hue: "150.3",
+    saturation: "66.40%",
+    lightness: "26.90%"
+
+}, {
+    name: "Darktan",
+    hex: "#918151",
+    red: "145",
+    green: "129",
+    blue: "81",
+    hue: "45",
+    saturation: "28.30%",
+    lightness: "44.30%"
+
+}, {
+    name: "Darktangerine",
+    hex: "#ffa812",
+    red: "255",
+    green: "168",
+    blue: "18",
+    hue: "38",
+    saturation: "100%",
+    lightness: "53.50%"
+
+}, {
+    name: "Darktaupe",
+    hex: "#483c32",
+    red: "72",
+    green: "60",
+    blue: "50",
+    hue: "27.3",
+    saturation: "18%",
+    lightness: "23.90%"
+
+}, {
+    name: "Darkterracotta",
+    hex: "#cc4e5c",
+    red: "204",
+    green: "78",
+    blue: "92",
+    hue: "353.3",
+    saturation: "55.30%",
+    lightness: "55.30%"
+
+}, {
+    name: "Darkturquoise",
+    hex: "#00ced1",
+    red: "0",
+    green: "206",
+    blue: "209",
+    hue: "180.9",
+    saturation: "100%",
+    lightness: "41%"
+
+}, {
+    name: "Darkviolet",
+    hex: "#9400d3",
+    red: "148",
+    green: "0",
+    blue: "211",
+    hue: "282.1",
+    saturation: "100%",
+    lightness: "41.40%"
+
+}, {
+    name: "Dartmouthgreen",
+    hex: "#00693e",
+    red: "0",
+    green: "105",
+    blue: "62",
+    hue: "155.4",
+    saturation: "100%",
+    lightness: "20.60%"
+
+}, {
+    name: "Davygrey",
+    hex: "#555555",
+    red: "85",
+    green: "85",
+    blue: "85",
+    hue: "0",
+    saturation: "0%",
+    lightness: "33.30%"
+
+}, {
+    name: "Debianred",
+    hex: "#d70a53",
+    red: "215",
+    green: "10",
+    blue: "83",
+    hue: "338.6",
+    saturation: "91.10%",
+    lightness: "44.10%"
+
+}, {
+    name: "Deepcarmine",
+    hex: "#a9203e",
+    red: "169",
+    green: "32",
+    blue: "62",
+    hue: "346.9",
+    saturation: "68.20%",
+    lightness: "39.40%"
+
+}, {
+    name: "Deepcarminepink",
+    hex: "#ef3038",
+    red: "239",
+    green: "48",
+    blue: "56",
+    hue: "357.5",
+    saturation: "85.70%",
+    lightness: "56.30%"
+
+}, {
+    name: "Deepcarrotorange",
+    hex: "#e9692c",
+    red: "233",
+    green: "105",
+    blue: "44",
+    hue: "19.4",
+    saturation: "81.10%",
+    lightness: "54.30%"
+
+}, {
+    name: "Deepcerise",
+    hex: "#da3287",
+    red: "218",
+    green: "50",
+    blue: "135",
+    hue: "329.6",
+    saturation: "69.40%",
+    lightness: "52.50%"
+
+}, {
+    name: "Deepchampagne",
+    hex: "#fad6a5",
+    red: "250",
+    green: "214",
+    blue: "165",
+    hue: "34.6",
+    saturation: "89.50%",
+    lightness: "81.40%"
+
+}, {
+    name: "Deepchestnut",
+    hex: "#b94e48",
+    red: "185",
+    green: "78",
+    blue: "72",
+    hue: "3.2",
+    saturation: "44.70%",
+    lightness: "50.40%"
+
+}, {
+    name: "Deepcoffee",
+    hex: "#704241",
+    red: "112",
+    green: "66",
+    blue: "65",
+    hue: "1.3",
+    saturation: "26.60%",
+    lightness: "34.70%"
+
+}, {
+    name: "Deepfuchsia",
+    hex: "#c154c1",
+    red: "193",
+    green: "84",
+    blue: "193",
+    hue: "300",
+    saturation: "46.80%",
+    lightness: "54.30%"
+
+}, {
+    name: "Deepjunglegreen",
+    hex: "#004b49",
+    red: "0",
+    green: "75",
+    blue: "73",
+    hue: "178.4",
+    saturation: "100%",
+    lightness: "14.70%"
+
+}, {
+    name: "Deeplilac",
+    hex: "#9955bb",
+    red: "153",
+    green: "85",
+    blue: "187",
+    hue: "280",
+    saturation: "42.90%",
+    lightness: "53.30%"
+
+}, {
+    name: "Deepmagenta",
+    hex: "#cc00cc",
+    red: "204",
+    green: "0",
+    blue: "204",
+    hue: "300",
+    saturation: "100%",
+    lightness: "40%"
+
+}, {
+    name: "Deeppeach",
+    hex: "#ffcba4",
+    red: "255",
+    green: "203",
+    blue: "164",
+    hue: "25.7",
+    saturation: "100%",
+    lightness: "82.20%"
+
+}, {
+    name: "Deeppink",
+    hex: "#ff1493",
+    red: "255",
+    green: "20",
+    blue: "147",
+    hue: "327.6",
+    saturation: "100%",
+    lightness: "53.90%"
+
+}, {
+    name: "Deepsaffron",
+    hex: "#ff9933",
+    red: "255",
+    green: "153",
+    blue: "51",
+    hue: "30",
+    saturation: "100%",
+    lightness: "60%"
+
+}, {
+    name: "Deepskyblue",
+    hex: "#00bfff",
+    red: "0",
+    green: "191",
+    blue: "255",
+    hue: "195.1",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Denim",
+    hex: "#1560bd",
+    red: "21",
+    green: "96",
+    blue: "189",
+    hue: "213.2",
+    saturation: "80%",
+    lightness: "41.20%"
+
+}, {
+    name: "Desert",
+    hex: "#c19a6b",
+    red: "193",
+    green: "154",
+    blue: "107",
+    hue: "32.8",
+    saturation: "41%",
+    lightness: "58.80%"
+
+}, {
+    name: "Desertsand",
+    hex: "#edc9af",
+    red: "237",
+    green: "201",
+    blue: "175",
+    hue: "25.2",
+    saturation: "63.30%",
+    lightness: "80.80%"
+
+}, {
+    name: "Dimgray",
+    hex: "#696969",
+    red: "105",
+    green: "105",
+    blue: "105",
+    hue: "0",
+    saturation: "0%",
+    lightness: "41.20%"
+
+}, {
+    name: "Dodgerblue",
+    hex: "#1e90ff",
+    red: "30",
+    green: "144",
+    blue: "255",
+    hue: "209.6",
+    saturation: "100%",
+    lightness: "55.90%"
+
+}, {
+    name: "Dogwoodrose",
+    hex: "#d71868",
+    red: "215",
+    green: "24",
+    blue: "104",
+    hue: "334.9",
+    saturation: "79.90%",
+    lightness: "46.90%"
+
+}, {
+    name: "Dollarbill",
+    hex: "#85bb65",
+    red: "133",
+    green: "187",
+    blue: "101",
+    hue: "97.7",
+    saturation: "38.70%",
+    lightness: "56.50%"
+
+}, {
+    name: "Drab",
+    hex: "#967117",
+    red: "150",
+    green: "113",
+    blue: "23",
+    hue: "42.5",
+    saturation: "73.40%",
+    lightness: "33.90%"
+
+}, {
+    name: "Dukeblue",
+    hex: "#00009c",
+    red: "0",
+    green: "0",
+    blue: "156",
+    hue: "240",
+    saturation: "100%",
+    lightness: "30.60%"
+
+}, {
+    name: "Earthyellow",
+    hex: "#e1a95f",
+    red: "225",
+    green: "169",
+    blue: "95",
+    hue: "34.2",
+    saturation: "68.40%",
+    lightness: "62.70%"
+
+}, {
+    name: "Ecru",
+    hex: "#c2b280",
+    red: "194",
+    green: "178",
+    blue: "128",
+    hue: "45.5",
+    saturation: "35.10%",
+    lightness: "63.10%"
+
+}, {
+    name: "Eggplant",
+    hex: "#614051",
+    red: "97",
+    green: "64",
+    blue: "81",
+    hue: "329.1",
+    saturation: "20.50%",
+    lightness: "31.60%"
+
+}, {
+    name: "Eggshell",
+    hex: "#f0ead6",
+    red: "240",
+    green: "234",
+    blue: "214",
+    hue: "46.2",
+    saturation: "46.40%",
+    lightness: "89%"
+
+}, {
+    name: "Egyptianblue",
+    hex: "#1034a6",
+    red: "16",
+    green: "52",
+    blue: "166",
+    hue: "225.6",
+    saturation: "82.40%",
+    lightness: "35.70%"
+
+}, {
+    name: "Electricblue",
+    hex: "#7df9ff",
+    red: "125",
+    green: "249",
+    blue: "255",
+    hue: "182.8",
+    saturation: "100%",
+    lightness: "74.50%"
+
+}, {
+    name: "Electriccrimson",
+    hex: "#ff003f",
+    red: "255",
+    green: "0",
+    blue: "63",
+    hue: "345.2",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Electriccyan",
+    hex: "#00ffff",
+    red: "0",
+    green: "255",
+    blue: "255",
+    hue: "180",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Electricgreen",
+    hex: "#00ff00",
+    red: "0",
+    green: "255",
+    blue: "0",
+    hue: "120",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Electricindigo",
+    hex: "#6f00ff",
+    red: "111",
+    green: "0",
+    blue: "255",
+    hue: "266.1",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Electriclavender",
+    hex: "#f4bbff",
+    red: "244",
+    green: "187",
+    blue: "255",
+    hue: "290.3",
+    saturation: "100%",
+    lightness: "86.70%"
+
+}, {
+    name: "Electriclime",
+    hex: "#ccff00",
+    red: "204",
+    green: "255",
+    blue: "0",
+    hue: "72",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Electricpurple",
+    hex: "#bf00ff",
+    red: "191",
+    green: "0",
+    blue: "255",
+    hue: "284.9",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Electricultramarine",
+    hex: "#3f00ff",
+    red: "63",
+    green: "0",
+    blue: "255",
+    hue: "254.8",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Electricviolet",
+    hex: "#8f00ff",
+    red: "143",
+    green: "0",
+    blue: "255",
+    hue: "273.6",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Electricyellow",
+    hex: "#ffff00",
+    red: "255",
+    green: "255",
+    blue: "0",
+    hue: "60",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Emerald",
+    hex: "#50c878",
+    red: "80",
+    green: "200",
+    blue: "120",
+    hue: "140",
+    saturation: "52.20%",
+    lightness: "54.90%"
+
+}, {
+    name: "Etonblue",
+    hex: "#96c8a2",
+    red: "150",
+    green: "200",
+    blue: "162",
+    hue: "134.4",
+    saturation: "31.30%",
+    lightness: "68.60%"
+
+}, {
+    name: "Fallow",
+    hex: "#c19a6b",
+    red: "193",
+    green: "154",
+    blue: "107",
+    hue: "32.8",
+    saturation: "41%",
+    lightness: "58.80%"
+
+}, {
+    name: "Falured",
+    hex: "#801818",
+    red: "128",
+    green: "24",
+    blue: "24",
+    hue: "0",
+    saturation: "68.40%",
+    lightness: "29.80%"
+
+}, {
+    name: "Famous",
+    hex: "#ff00ff",
+    red: "255",
+    green: "0",
+    blue: "255",
+    hue: "300",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Fandango",
+    hex: "#b53389",
+    red: "181",
+    green: "51",
+    blue: "137",
+    hue: "320.3",
+    saturation: "56%",
+    lightness: "45.50%"
+
+}, {
+    name: "Fashionfuchsia",
+    hex: "#f400a1",
+    red: "244",
+    green: "0",
+    blue: "161",
+    hue: "320.4",
+    saturation: "100%",
+    lightness: "47.80%"
+
+}, {
+    name: "Fawn",
+    hex: "#e5aa70",
+    red: "229",
+    green: "170",
+    blue: "112",
+    hue: "29.7",
+    saturation: "69.20%",
+    lightness: "66.90%"
+
+}, {
+    name: "Feldgrau",
+    hex: "#4d5d53",
+    red: "77",
+    green: "93",
+    blue: "83",
+    hue: "142.5",
+    saturation: "9.40%",
+    lightness: "33.30%"
+
+}, {
+    name: "Fern",
+    hex: "#71bc78",
+    red: "113",
+    green: "188",
+    blue: "120",
+    hue: "125.6",
+    saturation: "35.90%",
+    lightness: "59%"
+
+}, {
+    name: "Ferngreen",
+    hex: "#4f7942",
+    red: "79",
+    green: "121",
+    blue: "66",
+    hue: "105.8",
+    saturation: "29.40%",
+    lightness: "36.70%"
+
+}, {
+    name: "FerrariRed",
+    hex: "#ff2800",
+    red: "255",
+    green: "40",
+    blue: "0",
+    hue: "9.4",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Fielddrab",
+    hex: "#6c541e",
+    red: "108",
+    green: "84",
+    blue: "30",
+    hue: "41.5",
+    saturation: "56.50%",
+    lightness: "27.10%"
+
+}, {
+    name: "Fireenginered",
+    hex: "#ce2029",
+    red: "206",
+    green: "32",
+    blue: "41",
+    hue: "356.9",
+    saturation: "73.10%",
+    lightness: "46.70%"
+
+}, {
+    name: "Firebrick",
+    hex: "#b22222",
+    red: "178",
+    green: "34",
+    blue: "34",
+    hue: "0",
+    saturation: "67.90%",
+    lightness: "41.60%"
+
+}, {
+    name: "Flame",
+    hex: "#e25822",
+    red: "226",
+    green: "88",
+    blue: "34",
+    hue: "16.9",
+    saturation: "76.80%",
+    lightness: "51%"
+
+}, {
+    name: "Flamingopink",
+    hex: "#fc8eac",
+    red: "252",
+    green: "142",
+    blue: "172",
+    hue: "343.6",
+    saturation: "94.80%",
+    lightness: "77.30%"
+
+}, {
+    name: "Flavescent",
+    hex: "#f7e98e",
+    red: "247",
+    green: "233",
+    blue: "142",
+    hue: "52",
+    saturation: "86.80%",
+    lightness: "76.30%"
+
+}, {
+    name: "Flax",
+    hex: "#eedc82",
+    red: "238",
+    green: "220",
+    blue: "130",
+    hue: "50",
+    saturation: "76.10%",
+    lightness: "72.20%"
+
+}, {
+    name: "Floralwhite",
+    hex: "#fffaf0",
+    red: "255",
+    green: "250",
+    blue: "240",
+    hue: "40",
+    saturation: "100%",
+    lightness: "97.10%"
+
+}, {
+    name: "Fluorescentorange",
+    hex: "#ffbf00",
+    red: "255",
+    green: "191",
+    blue: "0",
+    hue: "44.9",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Fluorescentpink",
+    hex: "#ff1493",
+    red: "255",
+    green: "20",
+    blue: "147",
+    hue: "327.6",
+    saturation: "100%",
+    lightness: "53.90%"
+
+}, {
+    name: "Fluorescentyellow",
+    hex: "#ccff00",
+    red: "204",
+    green: "255",
+    blue: "0",
+    hue: "72",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Folly",
+    hex: "#ff004f",
+    red: "255",
+    green: "0",
+    blue: "79",
+    hue: "341.4",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Forestgreen",
+    hex: "#228b22",
+    red: "34",
+    green: "139",
+    blue: "34",
+    hue: "120",
+    saturation: "60.70%",
+    lightness: "33.90%"
+
+}, {
+    name: "Frenchbeige",
+    hex: "#a67b5b",
+    red: "166",
+    green: "123",
+    blue: "91",
+    hue: "25.6",
+    saturation: "29.60%",
+    lightness: "50.40%"
+
+}, {
+    name: "Frenchblue",
+    hex: "#0072bb",
+    red: "0",
+    green: "114",
+    blue: "187",
+    hue: "203.4",
+    saturation: "100%",
+    lightness: "36.70%"
+
+}, {
+    name: "Frenchlilac",
+    hex: "#86608e",
+    red: "134",
+    green: "96",
+    blue: "142",
+    hue: "289.6",
+    saturation: "19.30%",
+    lightness: "46.70%"
+
+}, {
+    name: "Frenchrose",
+    hex: "#f64a8a",
+    red: "246",
+    green: "74",
+    blue: "138",
+    hue: "337.7",
+    saturation: "90.50%",
+    lightness: "62.70%"
+
+}, {
+    name: "Fuchsia",
+    hex: "#ff00ff",
+    red: "255",
+    green: "0",
+    blue: "255",
+    hue: "300",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Fuchsiapink",
+    hex: "#ff77ff",
+    red: "255",
+    green: "119",
+    blue: "255",
+    hue: "300",
+    saturation: "100%",
+    lightness: "73.30%"
+
+}, {
+    name: "Fulvous",
+    hex: "#e48400",
+    red: "228",
+    green: "132",
+    blue: "0",
+    hue: "34.7",
+    saturation: "100%",
+    lightness: "44.70%"
+
+}, {
+    name: "FuzzyWuzzy",
+    hex: "#cc6666",
+    red: "204",
+    green: "102",
+    blue: "102",
+    hue: "0",
+    saturation: "50%",
+    lightness: "60%"
+
+}, {
+    name: "Gainsboro",
+    hex: "#dcdcdc",
+    red: "220",
+    green: "220",
+    blue: "220",
+    hue: "0",
+    saturation: "0%",
+    lightness: "86.30%"
+
+}, {
+    name: "Gamboge",
+    hex: "#e49b0f",
+    red: "228",
+    green: "155",
+    blue: "15",
+    hue: "39.4",
+    saturation: "87.70%",
+    lightness: "47.60%"
+
+}, {
+    name: "Ghostwhite",
+    hex: "#f8f8ff",
+    red: "248",
+    green: "248",
+    blue: "255",
+    hue: "240",
+    saturation: "100%",
+    lightness: "98.60%"
+
+}, {
+    name: "Ginger",
+    hex: "#b06500",
+    red: "176",
+    green: "101",
+    blue: "0",
+    hue: "34.4",
+    saturation: "100%",
+    lightness: "34.50%"
+
+}, {
+    name: "Glaucous",
+    hex: "#6082b6",
+    red: "96",
+    green: "130",
+    blue: "182",
+    hue: "216.3",
+    saturation: "37.10%",
+    lightness: "54.50%"
+
+}, {
+    name: "Glitter",
+    hex: "#e6e8fa",
+    red: "230",
+    green: "232",
+    blue: "250",
+    hue: "234",
+    saturation: "66.70%",
+    lightness: "94.10%"
+
+}, {
+    name: "Gold",
+    hex: "#ffd700",
+    red: "255",
+    green: "215",
+    blue: "0",
+    hue: "50.6",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Goldenbrown",
+    hex: "#996515",
+    red: "153",
+    green: "101",
+    blue: "21",
+    hue: "36.4",
+    saturation: "75.90%",
+    lightness: "34.10%"
+
+}, {
+    name: "Goldenpoppy",
+    hex: "#fcc200",
+    red: "252",
+    green: "194",
+    blue: "0",
+    hue: "46.2",
+    saturation: "100%",
+    lightness: "49.40%"
+
+}, {
+    name: "Goldenyellow",
+    hex: "#ffdf00",
+    red: "255",
+    green: "223",
+    blue: "0",
+    hue: "52.5",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Goldenrod",
+    hex: "#daa520",
+    red: "218",
+    green: "165",
+    blue: "32",
+    hue: "42.9",
+    saturation: "74.40%",
+    lightness: "49%"
+
+}, {
+    name: "GrannySmithApple",
+    hex: "#a8e4a0",
+    red: "168",
+    green: "228",
+    blue: "160",
+    hue: "112.9",
+    saturation: "55.70%",
+    lightness: "76.10%"
+
+}, {
+    name: "Gray",
+    hex: "#808080",
+    red: "128",
+    green: "128",
+    blue: "128",
+    hue: "0",
+    saturation: "0%",
+    lightness: "50.20%"
+
+}, {
+    name: "Grayasparagus",
+    hex: "#465945",
+    red: "70",
+    green: "89",
+    blue: "69",
+    hue: "117",
+    saturation: "12.70%",
+    lightness: "31%"
+
+}, {
+    name: "Green",
+    hex: "#00ff00",
+    red: "0",
+    green: "255",
+    blue: "0",
+    hue: "120",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "GreenBlue",
+    hex: "#1164b4",
+    red: "17",
+    green: "100",
+    blue: "180",
+    hue: "209.4",
+    saturation: "82.70%",
+    lightness: "38.60%"
+
+}, {
+    name: "Greenyellow",
+    hex: "#adff2f",
+    red: "173",
+    green: "255",
+    blue: "47",
+    hue: "83.7",
+    saturation: "100%",
+    lightness: "59.20%"
+
+}, {
+    name: "Grullo",
+    hex: "#a99a86",
+    red: "169",
+    green: "154",
+    blue: "134",
+    hue: "34.3",
+    saturation: "16.90%",
+    lightness: "59.40%"
+
+}, {
+    name: "Guppiegreen",
+    hex: "#00ff7f",
+    red: "0",
+    green: "255",
+    blue: "127",
+    hue: "149.9",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Halay\uFFFD\uFFFDbe",
+    hex: "#663854",
+    red: "102",
+    green: "56",
+    blue: "84",
+    hue: "323.5",
+    saturation: "29.10%",
+    lightness: "31%"
+
+}, {
+    name: "Hanblue",
+    hex: "#446ccf",
+    red: "68",
+    green: "108",
+    blue: "207",
+    hue: "222.7",
+    saturation: "59.10%",
+    lightness: "53.90%"
+
+}, {
+    name: "Hanpurple",
+    hex: "#5218fa",
+    red: "82",
+    green: "24",
+    blue: "250",
+    hue: "255.4",
+    saturation: "95.80%",
+    lightness: "53.70%"
+
+}, {
+    name: "Hansayellow",
+    hex: "#e9d66b",
+    red: "233",
+    green: "214",
+    blue: "107",
+    hue: "51",
+    saturation: "74.10%",
+    lightness: "66.70%"
+
+}, {
+    name: "Harlequin",
+    hex: "#3fff00",
+    red: "63",
+    green: "255",
+    blue: "0",
+    hue: "105.2",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Harvardcrimson",
+    hex: "#c90016",
+    red: "201",
+    green: "0",
+    blue: "22",
+    hue: "353.4",
+    saturation: "100%",
+    lightness: "39.40%"
+
+}, {
+    name: "HarvestGold",
+    hex: "#da9100",
+    red: "218",
+    green: "145",
+    blue: "0",
+    hue: "39.9",
+    saturation: "100%",
+    lightness: "42.70%"
+
+}, {
+    name: "HeartGold",
+    hex: "#808000",
+    red: "128",
+    green: "128",
+    blue: "0",
+    hue: "60",
+    saturation: "100%",
+    lightness: "25.10%"
+
+}, {
+    name: "Heliotrope",
+    hex: "#df73ff",
+    red: "223",
+    green: "115",
+    blue: "255",
+    hue: "286.3",
+    saturation: "100%",
+    lightness: "72.50%"
+
+}, {
+    name: "Hollywoodcerise",
+    hex: "#f400a1",
+    red: "244",
+    green: "0",
+    blue: "161",
+    hue: "320.4",
+    saturation: "100%",
+    lightness: "47.80%"
+
+}, {
+    name: "Honeydew",
+    hex: "#f0fff0",
+    red: "240",
+    green: "255",
+    blue: "240",
+    hue: "120",
+    saturation: "100%",
+    lightness: "97.10%"
+
+}, {
+    name: "Hookergreen",
+    hex: "#49796b",
+    red: "73",
+    green: "121",
+    blue: "107",
+    hue: "162.5",
+    saturation: "24.70%",
+    lightness: "38%"
+
+}, {
+    name: "Hotmagenta",
+    hex: "#ff1dce",
+    red: "255",
+    green: "29",
+    blue: "206",
+    hue: "313",
+    saturation: "100%",
+    lightness: "55.70%"
+
+}, {
+    name: "Hotpink",
+    hex: "#ff69b4",
+    red: "255",
+    green: "105",
+    blue: "180",
+    hue: "330",
+    saturation: "100%",
+    lightness: "70.60%"
+
+}, {
+    name: "Huntergreen",
+    hex: "#355e3b",
+    red: "53",
+    green: "94",
+    blue: "59",
+    hue: "128.8",
+    saturation: "27.90%",
+    lightness: "28.80%"
+
+}, {
+    name: "Icterine",
+    hex: "#fcf75e",
+    red: "252",
+    green: "247",
+    blue: "94",
+    hue: "58.1",
+    saturation: "96.30%",
+    lightness: "67.80%"
+
+}, {
+    name: "Inchworm",
+    hex: "#b2ec5d",
+    red: "178",
+    green: "236",
+    blue: "93",
+    hue: "84.3",
+    saturation: "79%",
+    lightness: "64.50%"
+
+}, {
+    name: "Indiagreen",
+    hex: "#138808",
+    red: "19",
+    green: "136",
+    blue: "8",
+    hue: "114.8",
+    saturation: "88.90%",
+    lightness: "28.20%"
+
+}, {
+    name: "Indianred",
+    hex: "#cd5c5c",
+    red: "205",
+    green: "92",
+    blue: "92",
+    hue: "0",
+    saturation: "53.10%",
+    lightness: "58.20%"
+
+}, {
+    name: "Indianyellow",
+    hex: "#e3a857",
+    red: "227",
+    green: "168",
+    blue: "87",
+    hue: "34.7",
+    saturation: "71.40%",
+    lightness: "61.60%"
+
+}, {
+    name: "Indigo",
+    hex: "#4b0082",
+    red: "75",
+    green: "0",
+    blue: "130",
+    hue: "274.6",
+    saturation: "100%",
+    lightness: "25.50%"
+
+}, {
+    name: "InternationalKleinBlue",
+    hex: "#002fa7",
+    red: "0",
+    green: "47",
+    blue: "167",
+    hue: "223.1",
+    saturation: "100%",
+    lightness: "32.70%"
+
+}, {
+    name: "Internationalorange",
+    hex: "#ff4f00",
+    red: "255",
+    green: "79",
+    blue: "0",
+    hue: "18.6",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Iris",
+    hex: "#5a4fcf",
+    red: "90",
+    green: "79",
+    blue: "207",
+    hue: "245.2",
+    saturation: "57.10%",
+    lightness: "56.10%"
+
+}, {
+    name: "Isabelline",
+    hex: "#f4f0ec",
+    red: "244",
+    green: "240",
+    blue: "236",
+    hue: "30",
+    saturation: "26.70%",
+    lightness: "94.10%"
+
+}, {
+    name: "Islamicgreen",
+    hex: "#009000",
+    red: "0",
+    green: "144",
+    blue: "0",
+    hue: "120",
+    saturation: "100%",
+    lightness: "28.20%"
+
+}, {
+    name: "Ivory",
+    hex: "#fffff0",
+    red: "255",
+    green: "255",
+    blue: "240",
+    hue: "60",
+    saturation: "100%",
+    lightness: "97.10%"
+
+}, {
+    name: "Jade",
+    hex: "#00a86b",
+    red: "0",
+    green: "168",
+    blue: "107",
+    hue: "158.2",
+    saturation: "100%",
+    lightness: "32.90%"
+
+}, {
+    name: "Jasmine",
+    hex: "#f8de7e",
+    red: "248",
+    green: "222",
+    blue: "126",
+    hue: "47.2",
+    saturation: "89.70%",
+    lightness: "73.30%"
+
+}, {
+    name: "Jasper",
+    hex: "#d73b3e",
+    red: "215",
+    green: "59",
+    blue: "62",
+    hue: "358.8",
+    saturation: "66.10%",
+    lightness: "53.70%"
+
+}, {
+    name: "Jazzberryjam",
+    hex: "#a50b5e",
+    red: "165",
+    green: "11",
+    blue: "94",
+    hue: "327.7",
+    saturation: "87.50%",
+    lightness: "34.50%"
+
+}, {
+    name: "Jonquil",
+    hex: "#fada5e",
+    red: "250",
+    green: "218",
+    blue: "94",
+    hue: "47.7",
+    saturation: "94%",
+    lightness: "67.50%"
+
+}, {
+    name: "Junebud",
+    hex: "#bdda57",
+    red: "189",
+    green: "218",
+    blue: "87",
+    hue: "73.3",
+    saturation: "63.90%",
+    lightness: "59.80%"
+
+}, {
+    name: "Junglegreen",
+    hex: "#29ab87",
+    red: "41",
+    green: "171",
+    blue: "135",
+    hue: "163.4",
+    saturation: "61.30%",
+    lightness: "41.60%"
+
+}, {
+    name: "KUCrimson",
+    hex: "#e8000d",
+    red: "232",
+    green: "0",
+    blue: "13",
+    hue: "356.6",
+    saturation: "100%",
+    lightness: "45.50%"
+
+}, {
+    name: "Kellygreen",
+    hex: "#4cbb17",
+    red: "76",
+    green: "187",
+    blue: "23",
+    hue: "100.6",
+    saturation: "78.10%",
+    lightness: "41.20%"
+
+}, {
+    name: "Khaki",
+    hex: "#c3b091",
+    red: "195",
+    green: "176",
+    blue: "145",
+    hue: "37.2",
+    saturation: "29.40%",
+    lightness: "66.70%"
+
+}, {
+    name: "LaSalleGreen",
+    hex: "#087830",
+    red: "8",
+    green: "120",
+    blue: "48",
+    hue: "141.4",
+    saturation: "87.50%",
+    lightness: "25.10%"
+
+}, {
+    name: "Languidlavender",
+    hex: "#d6cadd",
+    red: "214",
+    green: "202",
+    blue: "221",
+    hue: "277.9",
+    saturation: "21.80%",
+    lightness: "82.90%"
+
+}, {
+    name: "Lapislazuli",
+    hex: "#26619c",
+    red: "38",
+    green: "97",
+    blue: "156",
+    hue: "210",
+    saturation: "60.80%",
+    lightness: "38%"
+
+},  {
+    name: "LaserLemon",
+    hex: "#fefe22",
+    red: "254",
+    green: "254",
+    blue: "34",
+    hue: "60",
+    saturation: "99.10%",
+    lightness: "56.50%"
+
+}, {
+    name: "Laurelgreen",
+    hex: "#a9ba9d",
+    red: "169",
+    green: "186",
+    blue: "157",
+    hue: "95.2",
+    saturation: "17.40%",
+    lightness: "67.30%"
+
+}, {
+    name: "Lava",
+    hex: "#cf1020",
+    red: "207",
+    green: "16",
+    blue: "32",
+    hue: "355",
+    saturation: "85.70%",
+    lightness: "43.70%"
+
+}, {
+    name: "Lavender",
+    hex: "#e6e6fa",
+    red: "230",
+    green: "230",
+    blue: "250",
+    hue: "240",
+    saturation: "66.70%",
+    lightness: "94.10%"
+
+}, {
+    name: "Lavenderblue",
+    hex: "#ccccff",
+    red: "204",
+    green: "204",
+    blue: "255",
+    hue: "240",
+    saturation: "100%",
+    lightness: "90%"
+
+}, {
+    name: "Lavenderblush",
+    hex: "#fff0f5",
+    red: "255",
+    green: "240",
+    blue: "245",
+    hue: "340",
+    saturation: "100%",
+    lightness: "97.10%"
+
+}, {
+    name: "Lavendergray",
+    hex: "#c4c3d0",
+    red: "196",
+    green: "195",
+    blue: "208",
+    hue: "244.6",
+    saturation: "12.10%",
+    lightness: "79%"
+
+}, {
+    name: "Lavenderindigo",
+    hex: "#9457eb",
+    red: "148",
+    green: "87",
+    blue: "235",
+    hue: "264.7",
+    saturation: "78.70%",
+    lightness: "63.10%"
+
+}, {
+    name: "Lavendermagenta",
+    hex: "#ee82ee",
+    red: "238",
+    green: "130",
+    blue: "238",
+    hue: "300",
+    saturation: "76.10%",
+    lightness: "72.20%"
+
+}, {
+    name: "Lavendermist",
+    hex: "#e6e6fa",
+    red: "230",
+    green: "230",
+    blue: "250",
+    hue: "240",
+    saturation: "66.70%",
+    lightness: "94.10%"
+
+}, {
+    name: "Lavenderpink",
+    hex: "#fbaed2",
+    red: "251",
+    green: "174",
+    blue: "210",
+    hue: "331.9",
+    saturation: "90.60%",
+    lightness: "83.30%"
+
+}, {
+    name: "Lavenderpurple",
+    hex: "#967bb6",
+    red: "150",
+    green: "123",
+    blue: "182",
+    hue: "267.5",
+    saturation: "28.80%",
+    lightness: "59.80%"
+
+}, {
+    name: "Lavenderrose",
+    hex: "#fba0e3",
+    red: "251",
+    green: "160",
+    blue: "227",
+    hue: "315.8",
+    saturation: "91.90%",
+    lightness: "80.60%"
+
+}, {
+    name: "Lawngreen",
+    hex: "#7cfc00",
+    red: "124",
+    green: "252",
+    blue: "0",
+    hue: "90.5",
+    saturation: "100%",
+    lightness: "49.40%"
+
+}, {
+    name: "Lemon",
+    hex: "#fff700",
+    red: "255",
+    green: "247",
+    blue: "0",
+    hue: "58.1",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "LemonYellow",
+    hex: "#fff44f",
+    red: "255",
+    green: "244",
+    blue: "79",
+    hue: "56.3",
+    saturation: "100%",
+    lightness: "65.50%"
+
+}, {
+    name: "Lemonchiffon",
+    hex: "#fffacd",
+    red: "255",
+    green: "250",
+    blue: "205",
+    hue: "54",
+    saturation: "100%",
+    lightness: "90.20%"
+
+}, {
+    name: "Lemonlime",
+    hex: "#bfff00",
+    red: "191",
+    green: "255",
+    blue: "0",
+    hue: "75.1",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "LightCrimson",
+    hex: "#f56991",
+    red: "245",
+    green: "105",
+    blue: "145",
+    hue: "342.9",
+    saturation: "87.50%",
+    lightness: "68.60%"
+
+}, {
+    name: "LightThulianpink",
+    hex: "#e68fac",
+    red: "230",
+    green: "143",
+    blue: "172",
+    hue: "340",
+    saturation: "63.50%",
+    lightness: "73.10%"
+
+}, {
+    name: "Lightapricot",
+    hex: "#fdd5b1",
+    red: "253",
+    green: "213",
+    blue: "177",
+    hue: "28.4",
+    saturation: "95%",
+    lightness: "84.30%"
+
+}, {
+    name: "Lightblue",
+    hex: "#add8e6",
+    red: "173",
+    green: "216",
+    blue: "230",
+    hue: "194.7",
+    saturation: "53.30%",
+    lightness: "79%"
+
+}, {
+    name: "Lightbrown",
+    hex: "#b5651d",
+    red: "181",
+    green: "101",
+    blue: "29",
+    hue: "28.4",
+    saturation: "72.40%",
+    lightness: "41.20%"
+
+}, {
+    name: "Lightcarminepink",
+    hex: "#e66771",
+    red: "230",
+    green: "103",
+    blue: "113",
+    hue: "355.3",
+    saturation: "71.80%",
+    lightness: "65.30%"
+
+}, {
+    name: "Lightcoral",
+    hex: "#f08080",
+    red: "240",
+    green: "128",
+    blue: "128",
+    hue: "0",
+    saturation: "78.90%",
+    lightness: "72.20%"
+
+}, {
+    name: "Lightcornflowerblue",
+    hex: "#93ccea",
+    red: "147",
+    green: "204",
+    blue: "234",
+    hue: "200.7",
+    saturation: "67.40%",
+    lightness: "74.70%"
+
+}, {
+    name: "Lightcyan",
+    hex: "#e0ffff",
+    red: "224",
+    green: "255",
+    blue: "255",
+    hue: "180",
+    saturation: "100%",
+    lightness: "93.90%"
+
+}, {
+    name: "Lightfuchsiapink",
+    hex: "#f984ef",
+    red: "249",
+    green: "132",
+    blue: "239",
+    hue: "305.1",
+    saturation: "90.70%",
+    lightness: "74.70%"
+
+}, {
+    name: "Lightgoldenrodyellow",
+    hex: "#fafad2",
+    red: "250",
+    green: "250",
+    blue: "210",
+    hue: "60",
+    saturation: "80%",
+    lightness: "90.20%"
+
+}, {
+    name: "Lightgray",
+    hex: "#d3d3d3",
+    red: "211",
+    green: "211",
+    blue: "211",
+    hue: "0",
+    saturation: "0%",
+    lightness: "82.70%"
+
+}, {
+    name: "Lightgreen",
+    hex: "#90ee90",
+    red: "144",
+    green: "238",
+    blue: "144",
+    hue: "120",
+    saturation: "73.40%",
+    lightness: "74.90%"
+
+}, {
+    name: "Lightkhaki",
+    hex: "#f0e68c",
+    red: "240",
+    green: "230",
+    blue: "140",
+    hue: "54",
+    saturation: "76.90%",
+    lightness: "74.50%"
+
+}, {
+    name: "Lightpastelpurple",
+    hex: "#b19cd9",
+    red: "177",
+    green: "156",
+    blue: "217",
+    hue: "260.7",
+    saturation: "44.50%",
+    lightness: "73.10%"
+
+}, {
+    name: "Lightpink",
+    hex: "#ffb6c1",
+    red: "255",
+    green: "182",
+    blue: "193",
+    hue: "351",
+    saturation: "100%",
+    lightness: "85.70%"
+
+}, {
+    name: "Lightsalmon",
+    hex: "#ffa07a",
+    red: "255",
+    green: "160",
+    blue: "122",
+    hue: "17.1",
+    saturation: "100%",
+    lightness: "73.90%"
+
+}, {
+    name: "Lightsalmonpink",
+    hex: "#ff9999",
+    red: "255",
+    green: "153",
+    blue: "153",
+    hue: "0",
+    saturation: "100%",
+    lightness: "80%"
+
+}, {
+    name: "Lightseagreen",
+    hex: "#20b2aa",
+    red: "32",
+    green: "178",
+    blue: "170",
+    hue: "176.7",
+    saturation: "69.50%",
+    lightness: "41.20%"
+
+}, {
+    name: "Lightskyblue",
+    hex: "#87cefa",
+    red: "135",
+    green: "206",
+    blue: "250",
+    hue: "203",
+    saturation: "92%",
+    lightness: "75.50%"
+
+}, {
+    name: "Lightslategray",
+    hex: "#778899",
+    red: "119",
+    green: "136",
+    blue: "153",
+    hue: "210",
+    saturation: "14.30%",
+    lightness: "53.30%"
+
+}, {
+    name: "Lighttaupe",
+    hex: "#b38b6d",
+    red: "179",
+    green: "139",
+    blue: "109",
+    hue: "25.7",
+    saturation: "31.50%",
+    lightness: "56.50%"
+
+}, {
+    name: "Lightyellow",
+    hex: "#ffffed",
+    red: "255",
+    green: "255",
+    blue: "237",
+    hue: "60",
+    saturation: "100%",
+    lightness: "96.50%"
+
+}, {
+    name: "Lilac",
+    hex: "#c8a2c8",
+    red: "200",
+    green: "162",
+    blue: "200",
+    hue: "300",
+    saturation: "25.70%",
+    lightness: "71%"
+
+}, {
+    name: "Lime",
+    hex: "#bfff00",
+    red: "191",
+    green: "255",
+    blue: "0",
+    hue: "75.1",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Limegreen",
+    hex: "#32cd32",
+    red: "50",
+    green: "205",
+    blue: "50",
+    hue: "120",
+    saturation: "60.80%",
+    lightness: "50%"
+
+}, {
+    name: "Lincolngreen",
+    hex: "#195905",
+    red: "25",
+    green: "89",
+    blue: "5",
+    hue: "105.7",
+    saturation: "89.40%",
+    lightness: "18.40%"
+
+}, {
+    name: "Linen",
+    hex: "#faf0e6",
+    red: "250",
+    green: "240",
+    blue: "230",
+    hue: "30",
+    saturation: "66.70%",
+    lightness: "94.10%"
+
+}, {
+    name: "Lion",
+    hex: "#c19a6b",
+    red: "193",
+    green: "154",
+    blue: "107",
+    hue: "32.8",
+    saturation: "41%",
+    lightness: "58.80%"
+
+}, {
+    name: "Liver",
+    hex: "#534b4f",
+    red: "83",
+    green: "75",
+    blue: "79",
+    hue: "330",
+    saturation: "5.10%",
+    lightness: "31%"
+
+}, {
+    name: "Lust",
+    hex: "#e62020",
+    red: "230",
+    green: "32",
+    blue: "32",
+    hue: "0",
+    saturation: "79.80%",
+    lightness: "51.40%"
+
+}, {
+    name: "MSUGreen",
+    hex: "#18453b",
+    red: "24",
+    green: "69",
+    blue: "59",
+    hue: "166.7",
+    saturation: "48.40%",
+    lightness: "18.20%"
+
+}, {
+    name: "MacaroniandCheese",
+    hex: "#ffbd88",
+    red: "255",
+    green: "189",
+    blue: "136",
+    hue: "26.7",
+    saturation: "100%",
+    lightness: "76.70%"
+
+}, {
+    name: "Magenta",
+    hex: "#ff00ff",
+    red: "255",
+    green: "0",
+    blue: "255",
+    hue: "300",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Magicmint",
+    hex: "#aaf0d1",
+    red: "170",
+    green: "240",
+    blue: "209",
+    hue: "153.4",
+    saturation: "70%",
+    lightness: "80.40%"
+
+}, {
+    name: "Magnolia",
+    hex: "#f8f4ff",
+    red: "248",
+    green: "244",
+    blue: "255",
+    hue: "261.8",
+    saturation: "100%",
+    lightness: "97.80%"
+
+}, {
+    name: "Mahogany",
+    hex: "#c04000",
+    red: "192",
+    green: "64",
+    blue: "0",
+    hue: "20",
+    saturation: "100%",
+    lightness: "37.60%"
+
+}, {
+    name: "Maize",
+    hex: "#fbec5d",
+    red: "251",
+    green: "236",
+    blue: "93",
+    hue: "54.3",
+    saturation: "95.20%",
+    lightness: "67.50%"
+
+}, {
+    name: "MajorelleBlue",
+    hex: "#6050dc",
+    red: "96",
+    green: "80",
+    blue: "220",
+    hue: "246.9",
+    saturation: "66.70%",
+    lightness: "58.80%"
+
+}, {
+    name: "Malachite",
+    hex: "#0bda51",
+    red: "11",
+    green: "218",
+    blue: "81",
+    hue: "140.3",
+    saturation: "90.40%",
+    lightness: "44.90%"
+
+}, {
+    name: "Manatee",
+    hex: "#979aaa",
+    red: "151",
+    green: "154",
+    blue: "170",
+    hue: "230.5",
+    saturation: "10.10%",
+    lightness: "62.90%"
+
+}, {
+    name: "MangoTango",
+    hex: "#ff8243",
+    red: "255",
+    green: "130",
+    blue: "67",
+    hue: "20.1",
+    saturation: "100%",
+    lightness: "63.10%"
+
+}, {
+    name: "Mantis",
+    hex: "#74c365",
+    red: "116",
+    green: "195",
+    blue: "101",
+    hue: "110.4",
+    saturation: "43.90%",
+    lightness: "58%"
+
+}, {
+    name: "Maroon",
+    hex: "#800000",
+    red: "128",
+    green: "0",
+    blue: "0",
+    hue: "0",
+    saturation: "100%",
+    lightness: "25.10%"
+
+}, {
+    name: "Mauve",
+    hex: "#e0b0ff",
+    red: "224",
+    green: "176",
+    blue: "255",
+    hue: "276.5",
+    saturation: "100%",
+    lightness: "84.50%"
+
+}, {
+    name: "Mauvetaupe",
+    hex: "#915f6d",
+    red: "145",
+    green: "95",
+    blue: "109",
+    hue: "343.2",
+    saturation: "20.80%",
+    lightness: "47.10%"
+
+}, {
+    name: "Mauvelous",
+    hex: "#ef98aa",
+    red: "239",
+    green: "152",
+    blue: "170",
+    hue: "347.6",
+    saturation: "73.10%",
+    lightness: "76.70%"
+
+}, {
+    name: "Mayablue",
+    hex: "#73c2fb",
+    red: "115",
+    green: "194",
+    blue: "251",
+    hue: "205.1",
+    saturation: "94.40%",
+    lightness: "71.80%"
+
+}, {
+    name: "Meatbrown",
+    hex: "#e5b73b",
+    red: "229",
+    green: "183",
+    blue: "59",
+    hue: "43.8",
+    saturation: "76.60%",
+    lightness: "56.50%"
+
+}, {
+    name: "MediumPersianblue",
+    hex: "#0067a5",
+    red: "0",
+    green: "103",
+    blue: "165",
+    hue: "202.5",
+    saturation: "100%",
+    lightness: "32.40%"
+
+}, {
+    name: "Mediumaquamarine",
+    hex: "#66ddaa",
+    red: "102",
+    green: "221",
+    blue: "170",
+    hue: "154.3",
+    saturation: "63.60%",
+    lightness: "63.30%"
+
+}, {
+    name: "Mediumblue",
+    hex: "#0000cd",
+    red: "0",
+    green: "0",
+    blue: "205",
+    hue: "240",
+    saturation: "100%",
+    lightness: "40.20%"
+
+}, {
+    name: "Mediumcandyapplered",
+    hex: "#e2062c",
+    red: "226",
+    green: "6",
+    blue: "44",
+    hue: "349.6",
+    saturation: "94.80%",
+    lightness: "45.50%"
+
+}, {
+    name: "Mediumcarmine",
+    hex: "#af4035",
+    red: "175",
+    green: "64",
+    blue: "53",
+    hue: "5.4",
+    saturation: "53.50%",
+    lightness: "44.70%"
+
+}, {
+    name: "Mediumchampagne",
+    hex: "#f3e5ab",
+    red: "243",
+    green: "229",
+    blue: "171",
+    hue: "48.3",
+    saturation: "75%",
+    lightness: "81.20%"
+
+}, {
+    name: "Mediumelectricblue",
+    hex: "#035096",
+    red: "3",
+    green: "80",
+    blue: "150",
+    hue: "208.6",
+    saturation: "96.10%",
+    lightness: "30%"
+
+}, {
+    name: "Mediumjunglegreen",
+    hex: "#1c352d",
+    red: "28",
+    green: "53",
+    blue: "45",
+    hue: "160.8",
+    saturation: "30.90%",
+    lightness: "15.90%"
+
+}, {
+    name: "Mediumlavendermagenta",
+    hex: "#dda0dd",
+    red: "221",
+    green: "160",
+    blue: "221",
+    hue: "300",
+    saturation: "47.30%",
+    lightness: "74.70%"
+
+}, {
+    name: "Mediumorchid",
+    hex: "#ba55d3",
+    red: "186",
+    green: "85",
+    blue: "211",
+    hue: "288.1",
+    saturation: "58.90%",
+    lightness: "58%"
+
+}, {
+    name: "Mediumpurple",
+    hex: "#9370db",
+    red: "147",
+    green: "112",
+    blue: "219",
+    hue: "259.6",
+    saturation: "59.80%",
+    lightness: "64.90%"
+
+}, {
+    name: "Mediumredviolet",
+    hex: "#bb3385",
+    red: "187",
+    green: "51",
+    blue: "133",
+    hue: "323.8",
+    saturation: "57.10%",
+    lightness: "46.70%"
+
+}, {
+    name: "Mediumseagreen",
+    hex: "#3cb371",
+    red: "60",
+    green: "179",
+    blue: "113",
+    hue: "146.7",
+    saturation: "49.80%",
+    lightness: "46.90%"
+
+}, {
+    name: "Mediumslateblue",
+    hex: "#7b68ee",
+    red: "123",
+    green: "104",
+    blue: "238",
+    hue: "248.5",
+    saturation: "79.80%",
+    lightness: "67.10%"
+
+}, {
+    name: "Mediumspringbud",
+    hex: "#c9dc87",
+    red: "201",
+    green: "220",
+    blue: "135",
+    hue: "73.4",
+    saturation: "54.80%",
+    lightness: "69.60%"
+
+}, {
+    name: "Mediumspringgreen",
+    hex: "#00fa9a",
+    red: "0",
+    green: "250",
+    blue: "154",
+    hue: "157",
+    saturation: "100%",
+    lightness: "49%"
+
+}, {
+    name: "Mediumtaupe",
+    hex: "#674c47",
+    red: "103",
+    green: "76",
+    blue: "71",
+    hue: "9.4",
+    saturation: "18.40%",
+    lightness: "34.10%"
+
+}, {
+    name: "Mediumtealblue",
+    hex: "#0054b4",
+    red: "0",
+    green: "84",
+    blue: "180",
+    hue: "212",
+    saturation: "100%",
+    lightness: "35.30%"
+
+}, {
+    name: "Mediumturquoise",
+    hex: "#48d1cc",
+    red: "72",
+    green: "209",
+    blue: "204",
+    hue: "177.8",
+    saturation: "59.80%",
+    lightness: "55.10%"
+
+}, {
+    name: "Mediumvioletred",
+    hex: "#c71585",
+    red: "199",
+    green: "21",
+    blue: "133",
+    hue: "322.2",
+    saturation: "80.90%",
+    lightness: "43.10%"
+
+}, {
+    name: "Melon",
+    hex: "#fdbcb4",
+    red: "253",
+    green: "188",
+    blue: "180",
+    hue: "6.6",
+    saturation: "94.80%",
+    lightness: "84.90%"
+
+}, {
+    name: "Midnightblue",
+    hex: "#191970",
+    red: "25",
+    green: "25",
+    blue: "112",
+    hue: "240",
+    saturation: "63.50%",
+    lightness: "26.90%"
+
+}, {
+    name: "Midnightgreen",
+    hex: "#004953",
+    red: "0",
+    green: "73",
+    blue: "83",
+    hue: "187.2",
+    saturation: "100%",
+    lightness: "16.30%"
+
+}, {
+    name: "Mikadoyellow",
+    hex: "#ffc40c",
+    red: "255",
+    green: "196",
+    blue: "12",
+    hue: "45.4",
+    saturation: "100%",
+    lightness: "52.40%"
+
+}, {
+    name: "Mint",
+    hex: "#3eb489",
+    red: "62",
+    green: "180",
+    blue: "137",
+    hue: "158.1",
+    saturation: "48.80%",
+    lightness: "47.50%"
+
+}, {
+    name: "Mintcream",
+    hex: "#f5fffa",
+    red: "245",
+    green: "255",
+    blue: "250",
+    hue: "150",
+    saturation: "100%",
+    lightness: "98%"
+
+}, {
+    name: "Mintgreen",
+    hex: "#98ff98",
+    red: "152",
+    green: "255",
+    blue: "152",
+    hue: "120",
+    saturation: "100%",
+    lightness: "79.80%"
+
+}, {
+    name: "Mistyrose",
+    hex: "#ffe4e1",
+    red: "255",
+    green: "228",
+    blue: "225",
+    hue: "6",
+    saturation: "100%",
+    lightness: "94.10%"
+
+}, {
+    name: "Moccasin",
+    hex: "#faebd7",
+    red: "250",
+    green: "235",
+    blue: "215",
+    hue: "34.3",
+    saturation: "77.80%",
+    lightness: "91.20%"
+
+}, {
+    name: "Modebeige",
+    hex: "#967117",
+    red: "150",
+    green: "113",
+    blue: "23",
+    hue: "42.5",
+    saturation: "73.40%",
+    lightness: "33.90%"
+
+}, {
+    name: "Moonstoneblue",
+    hex: "#73a9c2",
+    red: "115",
+    green: "169",
+    blue: "194",
+    hue: "199",
+    saturation: "39.30%",
+    lightness: "60.60%"
+
+}, {
+    name: "Mordantred19",
+    hex: "#ae0c00",
+    red: "174",
+    green: "12",
+    blue: "0",
+    hue: "4.1",
+    saturation: "100%",
+    lightness: "34.10%"
+
+}, {
+    name: "Mossgreen",
+    hex: "#addfad",
+    red: "173",
+    green: "223",
+    blue: "173",
+    hue: "120",
+    saturation: "43.90%",
+    lightness: "77.60%"
+
+}, {
+    name: "MountainMeadow",
+    hex: "#30ba8f",
+    red: "48",
+    green: "186",
+    blue: "143",
+    hue: "161.3",
+    saturation: "59%",
+    lightness: "45.90%"
+
+}, {
+    name: "Mountbattenpink",
+    hex: "#997a8d",
+    red: "153",
+    green: "122",
+    blue: "141",
+    hue: "323.2",
+    saturation: "13.20%",
+    lightness: "53.90%"
+
+}, {
+    name: "Mulberry",
+    hex: "#c54b8c",
+    red: "197",
+    green: "75",
+    blue: "140",
+    hue: "328",
+    saturation: "51.30%",
+    lightness: "53.30%"
+
+}, {
+    name: "Munsell",
+    hex: "#f2f3f4",
+    red: "242",
+    green: "243",
+    blue: "244",
+    hue: "210",
+    saturation: "8.30%",
+    lightness: "95.30%"
+
+}, {
+    name: "Mustard",
+    hex: "#ffdb58",
+    red: "255",
+    green: "219",
+    blue: "88",
+    hue: "47.1",
+    saturation: "100%",
+    lightness: "67.30%"
+
+}, {
+    name: "Myrtle",
+    hex: "#21421e",
+    red: "33",
+    green: "66",
+    blue: "30",
+    hue: "115",
+    saturation: "37.50%",
+    lightness: "18.80%"
+
+}, {
+    name: "Nadeshikopink",
+    hex: "#f6adc6",
+    red: "246",
+    green: "173",
+    blue: "198",
+    hue: "339.5",
+    saturation: "80.20%",
+    lightness: "82.20%"
+
+}, {
+    name: "Napiergreen",
+    hex: "#2a8000",
+    red: "42",
+    green: "128",
+    blue: "0",
+    hue: "100.3",
+    saturation: "100%",
+    lightness: "25.10%"
+
+}, {
+    name: "Naplesyellow",
+    hex: "#fada5e",
+    red: "250",
+    green: "218",
+    blue: "94",
+    hue: "47.7",
+    saturation: "94%",
+    lightness: "67.50%"
+
+}, {
+    name: "Navajowhite",
+    hex: "#ffdead",
+    red: "255",
+    green: "222",
+    blue: "173",
+    hue: "35.9",
+    saturation: "100%",
+    lightness: "83.90%"
+
+}, {
+    name: "Navyblue",
+    hex: "#000080",
+    red: "0",
+    green: "0",
+    blue: "128",
+    hue: "240",
+    saturation: "100%",
+    lightness: "25.10%"
+
+}, {
+    name: "NeonCarrot",
+    hex: "#ffa343",
+    red: "255",
+    green: "163",
+    blue: "67",
+    hue: "30.6",
+    saturation: "100%",
+    lightness: "63.10%"
+
+}, {
+    name: "Neonfuchsia",
+    hex: "#fe59c2",
+    red: "254",
+    green: "89",
+    blue: "194",
+    hue: "321.8",
+    saturation: "98.80%",
+    lightness: "67.30%"
+
+}, {
+    name: "Neongreen",
+    hex: "#39ff14",
+    red: "57",
+    green: "255",
+    blue: "20",
+    hue: "110.6",
+    saturation: "100%",
+    lightness: "53.90%"
+
+}, {
+    name: "Non-photoblue",
+    hex: "#a4dded",
+    red: "164",
+    green: "221",
+    blue: "237",
+    hue: "193.2",
+    saturation: "67%",
+    lightness: "78.60%"
+
+}, {
+    name: "NorthTexasGreen",
+    hex: "#059033",
+    red: "5",
+    green: "144",
+    blue: "51",
+    hue: "139.9",
+    saturation: "93.30%",
+    lightness: "29.20%"
+
+}, {
+    name: "OceanBoatBlue",
+    hex: "#0077be",
+    red: "0",
+    green: "119",
+    blue: "190",
+    hue: "202.4",
+    saturation: "100%",
+    lightness: "37.30%"
+
+}, {
+    name: "Ochre",
+    hex: "#cc7722",
+    red: "204",
+    green: "119",
+    blue: "34",
+    hue: "30",
+    saturation: "71.40%",
+    lightness: "46.70%"
+
+}, {
+    name: "Officegreen",
+    hex: "#008000",
+    red: "0",
+    green: "128",
+    blue: "0",
+    hue: "120",
+    saturation: "100%",
+    lightness: "25.10%"
+
+}, {
+    name: "Oldgold",
+    hex: "#cfb53b",
+    red: "207",
+    green: "181",
+    blue: "59",
+    hue: "49.5",
+    saturation: "60.70%",
+    lightness: "52.20%"
+
+}, {
+    name: "Oldlace",
+    hex: "#fdf5e6",
+    red: "253",
+    green: "245",
+    blue: "230",
+    hue: "39.1",
+    saturation: "85.20%",
+    lightness: "94.70%"
+
+}, {
+    name: "Oldlavender",
+    hex: "#796878",
+    red: "121",
+    green: "104",
+    blue: "120",
+    hue: "303.5",
+    saturation: "7.60%",
+    lightness: "44.10%"
+
+}, {
+    name: "Oldmauve",
+    hex: "#673147",
+    red: "103",
+    green: "49",
+    blue: "71",
+    hue: "335.6",
+    saturation: "35.50%",
+    lightness: "29.80%"
+
+}, {
+    name: "Oldrose",
+    hex: "#c08081",
+    red: "192",
+    green: "128",
+    blue: "129",
+    hue: "359.1",
+    saturation: "33.70%",
+    lightness: "62.70%"
+
+}, {
+    name: "Olive",
+    hex: "#808000",
+    red: "128",
+    green: "128",
+    blue: "0",
+    hue: "60",
+    saturation: "100%",
+    lightness: "25.10%"
+
+}, {
+    name: "OliveDrab",
+    hex: "#6b8e23",
+    red: "107",
+    green: "142",
+    blue: "35",
+    hue: "79.6",
+    saturation: "60.50%",
+    lightness: "34.70%"
+
+}, {
+    name: "OliveGreen",
+    hex: "#bab86c",
+    red: "186",
+    green: "184",
+    blue: "108",
+    hue: "58.5",
+    saturation: "36.10%",
+    lightness: "57.60%"
+
+}, {
+    name: "Olivine",
+    hex: "#9ab973",
+    red: "154",
+    green: "185",
+    blue: "115",
+    hue: "86.6",
+    saturation: "33.30%",
+    lightness: "58.80%"
+
+}, {
+    name: "Onyx",
+    hex: "#0f0f0f",
+    red: "15",
+    green: "15",
+    blue: "15",
+    hue: "0",
+    saturation: "0%",
+    lightness: "5.90%"
+
+}, {
+    name: "Operamauve",
+    hex: "#b784a7",
+    red: "183",
+    green: "132",
+    blue: "167",
+    hue: "318.8",
+    saturation: "26.20%",
+    lightness: "61.80%"
+
+}, {
+    name: "Orange",
+    hex: "#ffa500",
+    red: "255",
+    green: "165",
+    blue: "0",
+    hue: "38.8",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "OrangeYellow",
+    hex: "#f8d568",
+    red: "248",
+    green: "213",
+    blue: "104",
+    hue: "45.4",
+    saturation: "91.10%",
+    lightness: "69%"
+
+}, {
+    name: "Orangepeel",
+    hex: "#ff9f00",
+    red: "255",
+    green: "159",
+    blue: "0",
+    hue: "37.4",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Orangered",
+    hex: "#ff4500",
+    red: "255",
+    green: "69",
+    blue: "0",
+    hue: "16.2",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Orchid",
+    hex: "#da70d6",
+    red: "218",
+    green: "112",
+    blue: "214",
+    hue: "302.3",
+    saturation: "58.90%",
+    lightness: "64.70%"
+
+}, {
+    name: "Otterbrown",
+    hex: "#654321",
+    red: "101",
+    green: "67",
+    blue: "33",
+    hue: "30",
+    saturation: "50.70%",
+    lightness: "26.30%"
+
+}, {
+    name: "OuterSpace",
+    hex: "#414a4c",
+    red: "65",
+    green: "74",
+    blue: "76",
+    hue: "190.9",
+    saturation: "7.80%",
+    lightness: "27.60%"
+
+}, {
+    name: "OutrageousOrange",
+    hex: "#ff6e4a",
+    red: "255",
+    green: "110",
+    blue: "74",
+    hue: "11.9",
+    saturation: "100%",
+    lightness: "64.50%"
+
+}, {
+    name: "OxfordBlue",
+    hex: "#002147",
+    red: "0",
+    green: "33",
+    blue: "71",
+    hue: "212.1",
+    saturation: "100%",
+    lightness: "13.90%"
+
+}, {
+    name: "PacificBlue",
+    hex: "#1ca9c9",
+    red: "28",
+    green: "169",
+    blue: "201",
+    hue: "191.1",
+    saturation: "75.50%",
+    lightness: "44.90%"
+
+}, {
+    name: "Pakistangreen",
+    hex: "#006600",
+    red: "0",
+    green: "102",
+    blue: "0",
+    hue: "120",
+    saturation: "100%",
+    lightness: "20%"
+
+}, {
+    name: "Palatinateblue",
+    hex: "#273be2",
+    red: "39",
+    green: "59",
+    blue: "226",
+    hue: "233.6",
+    saturation: "76.30%",
+    lightness: "52%"
+
+}, {
+    name: "Palatinatepurple",
+    hex: "#682860",
+    red: "104",
+    green: "40",
+    blue: "96",
+    hue: "307.5",
+    saturation: "44.40%",
+    lightness: "28.20%"
+
+}, {
+    name: "Paleaqua",
+    hex: "#bcd4e6",
+    red: "188",
+    green: "212",
+    blue: "230",
+    hue: "205.7",
+    saturation: "45.70%",
+    lightness: "82%"
+
+}, {
+    name: "Paleblue",
+    hex: "#afeeee",
+    red: "175",
+    green: "238",
+    blue: "238",
+    hue: "180",
+    saturation: "64.90%",
+    lightness: "81%"
+
+}, {
+    name: "Palebrown",
+    hex: "#987654",
+    red: "152",
+    green: "118",
+    blue: "84",
+    hue: "30",
+    saturation: "28.80%",
+    lightness: "46.30%"
+
+}, {
+    name: "Palecarmine",
+    hex: "#af4035",
+    red: "175",
+    green: "64",
+    blue: "53",
+    hue: "5.4",
+    saturation: "53.50%",
+    lightness: "44.70%"
+
+}, {
+    name: "Palecerulean",
+    hex: "#9bc4e2",
+    red: "155",
+    green: "196",
+    blue: "226",
+    hue: "205.4",
+    saturation: "55%",
+    lightness: "74.70%"
+
+}, {
+    name: "Palechestnut",
+    hex: "#ddadaf",
+    red: "221",
+    green: "173",
+    blue: "175",
+    hue: "357.5",
+    saturation: "41.40%",
+    lightness: "77.30%"
+
+}, {
+    name: "Palecopper",
+    hex: "#da8a67",
+    red: "218",
+    green: "138",
+    blue: "103",
+    hue: "18.3",
+    saturation: "60.80%",
+    lightness: "62.90%"
+
+}, {
+    name: "Palecornflowerblue",
+    hex: "#abcdef",
+    red: "171",
+    green: "205",
+    blue: "239",
+    hue: "210",
+    saturation: "68%",
+    lightness: "80.40%"
+
+}, {
+    name: "Palegold",
+    hex: "#e6be8a",
+    red: "230",
+    green: "190",
+    blue: "138",
+    hue: "33.9",
+    saturation: "64.80%",
+    lightness: "72.20%"
+
+}, {
+    name: "Palegoldenrod",
+    hex: "#eee8aa",
+    red: "238",
+    green: "232",
+    blue: "170",
+    hue: "54.7",
+    saturation: "66.70%",
+    lightness: "80%"
+
+}, {
+    name: "Palegreen",
+    hex: "#98fb98",
+    red: "152",
+    green: "251",
+    blue: "152",
+    hue: "120",
+    saturation: "92.50%",
+    lightness: "79%"
+
+}, {
+    name: "Palelavender",
+    hex: "#dcd0ff",
+    red: "220",
+    green: "208",
+    blue: "255",
+    hue: "255.3",
+    saturation: "100%",
+    lightness: "90.80%"
+
+}, {
+    name: "Palemagenta",
+    hex: "#f984e5",
+    red: "249",
+    green: "132",
+    blue: "229",
+    hue: "310.3",
+    saturation: "90.70%",
+    lightness: "74.70%"
+
+}, {
+    name: "Palepink",
+    hex: "#fadadd",
+    red: "250",
+    green: "218",
+    blue: "221",
+    hue: "354.4",
+    saturation: "76.20%",
+    lightness: "91.80%"
+
+}, {
+    name: "Paleplum",
+    hex: "#dda0dd",
+    red: "221",
+    green: "160",
+    blue: "221",
+    hue: "300",
+    saturation: "47.30%",
+    lightness: "74.70%"
+
+}, {
+    name: "Paleredviolet",
+    hex: "#db7093",
+    red: "219",
+    green: "112",
+    blue: "147",
+    hue: "340.4",
+    saturation: "59.80%",
+    lightness: "64.90%"
+
+}, {
+    name: "Palerobineggblue",
+    hex: "#96ded1",
+    red: "150",
+    green: "222",
+    blue: "209",
+    hue: "169.2",
+    saturation: "52.20%",
+    lightness: "72.90%"
+
+}, {
+    name: "Palesilver",
+    hex: "#c9c0bb",
+    red: "201",
+    green: "192",
+    blue: "187",
+    hue: "21.4",
+    saturation: "11.50%",
+    lightness: "76.10%"
+
+}, {
+    name: "Palespringbud",
+    hex: "#ecebbd",
+    red: "236",
+    green: "235",
+    blue: "189",
+    hue: "58.7",
+    saturation: "55.30%",
+    lightness: "83.30%"
+
+}, {
+    name: "Paletaupe",
+    hex: "#bc987e",
+    red: "188",
+    green: "152",
+    blue: "126",
+    hue: "25.2",
+    saturation: "31.60%",
+    lightness: "61.60%"
+
+}, {
+    name: "Palevioletred",
+    hex: "#db7093",
+    red: "219",
+    green: "112",
+    blue: "147",
+    hue: "340.4",
+    saturation: "59.80%",
+    lightness: "64.90%"
+
+}, {
+    name: "Pansypurple",
+    hex: "#78184a",
+    red: "120",
+    green: "24",
+    blue: "74",
+    hue: "328.8",
+    saturation: "66.70%",
+    lightness: "28.20%"
+
+}, {
+    name: "Papayawhip",
+    hex: "#ffefd5",
+    red: "255",
+    green: "239",
+    blue: "213",
+    hue: "37.1",
+    saturation: "100%",
+    lightness: "91.80%"
+
+}, {
+    name: "ParisGreen",
+    hex: "#50c878",
+    red: "80",
+    green: "200",
+    blue: "120",
+    hue: "140",
+    saturation: "52.20%",
+    lightness: "54.90%"
+
+}, {
+    name: "Pastelblue",
+    hex: "#aec6cf",
+    red: "174",
+    green: "198",
+    blue: "207",
+    hue: "196.4",
+    saturation: "25.60%",
+    lightness: "74.70%"
+
+}, {
+    name: "Pastelbrown",
+    hex: "#836953",
+    red: "131",
+    green: "105",
+    blue: "83",
+    hue: "27.5",
+    saturation: "22.40%",
+    lightness: "42%"
+
+}, {
+    name: "Pastelgray",
+    hex: "#cfcfc4",
+    red: "207",
+    green: "207",
+    blue: "196",
+    hue: "60",
+    saturation: "10.30%",
+    lightness: "79%"
+
+}, {
+    name: "Pastelgreen",
+    hex: "#77dd77",
+    red: "119",
+    green: "221",
+    blue: "119",
+    hue: "120",
+    saturation: "60%",
+    lightness: "66.70%"
+
+}, {
+    name: "Pastelmagenta",
+    hex: "#f49ac2",
+    red: "244",
+    green: "154",
+    blue: "194",
+    hue: "333.3",
+    saturation: "80.40%",
+    lightness: "78%"
+
+}, {
+    name: "Pastelorange",
+    hex: "#ffb347",
+    red: "255",
+    green: "179",
+    blue: "71",
+    hue: "35.2",
+    saturation: "100%",
+    lightness: "63.90%"
+
+}, {
+    name: "Pastelpink",
+    hex: "#ffd1dc",
+    red: "255",
+    green: "209",
+    blue: "220",
+    hue: "345.7",
+    saturation: "100%",
+    lightness: "91%"
+
+}, {
+    name: "Pastelpurple",
+    hex: "#b39eb5",
+    red: "179",
+    green: "158",
+    blue: "181",
+    hue: "294.8",
+    saturation: "13.50%",
+    lightness: "66.50%"
+
+}, {
+    name: "Pastelred",
+    hex: "#ff6961",
+    red: "255",
+    green: "105",
+    blue: "97",
+    hue: "3",
+    saturation: "100%",
+    lightness: "69%"
+
+}, {
+    name: "Pastelviolet",
+    hex: "#cb99c9",
+    red: "203",
+    green: "153",
+    blue: "201",
+    hue: "302.4",
+    saturation: "32.50%",
+    lightness: "69.80%"
+
+}, {
+    name: "Pastelyellow",
+    hex: "#fdfd96",
+    red: "253",
+    green: "253",
+    blue: "150",
+    hue: "60",
+    saturation: "96.30%",
+    lightness: "79%"
+
+}, {
+    name: "Patriarch",
+    hex: "#800080",
+    red: "128",
+    green: "0",
+    blue: "128",
+    hue: "300",
+    saturation: "100%",
+    lightness: "25.10%"
+
+}, {
+    name: "Paynegrey",
+    hex: "#536878",
+    red: "83",
+    green: "104",
+    blue: "120",
+    hue: "205.9",
+    saturation: "18.20%",
+    lightness: "39.80%"
+
+}, {
+    name: "Peach",
+    hex: "#ffe5b4",
+    red: "255",
+    green: "229",
+    blue: "180",
+    hue: "39.2",
+    saturation: "100%",
+    lightness: "85.30%"
+
+}, {
+    name: "Peachpuff",
+    hex: "#ffdab9",
+    red: "255",
+    green: "218",
+    blue: "185",
+    hue: "28.3",
+    saturation: "100%",
+    lightness: "86.30%"
+
+}, {
+    name: "Peachyellow",
+    hex: "#fadfad",
+    red: "250",
+    green: "223",
+    blue: "173",
+    hue: "39",
+    saturation: "88.50%",
+    lightness: "82.90%"
+
+}, {
+    name: "Pear",
+    hex: "#d1e231",
+    red: "209",
+    green: "226",
+    blue: "49",
+    hue: "65.8",
+    saturation: "75.30%",
+    lightness: "53.90%"
+
+}, {
+    name: "Pearl",
+    hex: "#eae0c8",
+    red: "234",
+    green: "224",
+    blue: "200",
+    hue: "42.4",
+    saturation: "44.70%",
+    lightness: "85.10%"
+
+}, {
+    name: "PearlAqua",
+    hex: "#88d8c0",
+    red: "136",
+    green: "216",
+    blue: "192",
+    hue: "162",
+    saturation: "50.60%",
+    lightness: "69%"
+
+}, {
+    name: "Peridot",
+    hex: "#e6e200",
+    red: "230",
+    green: "226",
+    blue: "0",
+    hue: "59",
+    saturation: "100%",
+    lightness: "45.10%"
+
+}, {
+    name: "Periwinkle",
+    hex: "#ccccff",
+    red: "204",
+    green: "204",
+    blue: "255",
+    hue: "240",
+    saturation: "100%",
+    lightness: "90%"
+
+}, {
+    name: "Persianblue",
+    hex: "#1c39bb",
+    red: "28",
+    green: "57",
+    blue: "187",
+    hue: "229.1",
+    saturation: "74%",
+    lightness: "42.20%"
+
+}, {
+    name: "Persianindigo",
+    hex: "#32127a",
+    red: "50",
+    green: "18",
+    blue: "122",
+    hue: "258.5",
+    saturation: "74.30%",
+    lightness: "27.50%"
+
+}, {
+    name: "Persianorange",
+    hex: "#d99058",
+    red: "217",
+    green: "144",
+    blue: "88",
+    hue: "26",
+    saturation: "62.90%",
+    lightness: "59.80%"
+
+}, {
+    name: "Persianpink",
+    hex: "#f77fbe",
+    red: "247",
+    green: "127",
+    blue: "190",
+    hue: "328.5",
+    saturation: "88.20%",
+    lightness: "73.30%"
+
+}, {
+    name: "Persianplum",
+    hex: "#701c1c",
+    red: "112",
+    green: "28",
+    blue: "28",
+    hue: "0",
+    saturation: "60%",
+    lightness: "27.50%"
+
+}, {
+    name: "Persianred",
+    hex: "#cc3333",
+    red: "204",
+    green: "51",
+    blue: "51",
+    hue: "0",
+    saturation: "60%",
+    lightness: "50%"
+
+}, {
+    name: "Persianrose",
+    hex: "#fe28a2",
+    red: "254",
+    green: "40",
+    blue: "162",
+    hue: "325.8",
+    saturation: "99.10%",
+    lightness: "57.60%"
+
+}, {
+    name: "Phlox",
+    hex: "#df00ff",
+    red: "223",
+    green: "0",
+    blue: "255",
+    hue: "292.5",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Phthaloblue",
+    hex: "#000f89",
+    red: "0",
+    green: "15",
+    blue: "137",
+    hue: "233.4",
+    saturation: "100%",
+    lightness: "26.90%"
+
+}, {
+    name: "Phthalogreen",
+    hex: "#123524",
+    red: "18",
+    green: "53",
+    blue: "36",
+    hue: "150.9",
+    saturation: "49.30%",
+    lightness: "13.90%"
+
+}, {
+    name: "Piggypink",
+    hex: "#fddde6",
+    red: "253",
+    green: "221",
+    blue: "230",
+    hue: "343.1",
+    saturation: "88.90%",
+    lightness: "92.90%"
+
+}, {
+    name: "Pinegreen",
+    hex: "#01796f",
+    red: "1",
+    green: "121",
+    blue: "111",
+    hue: "175",
+    saturation: "98.40%",
+    lightness: "23.90%"
+
+}, {
+    name: "Pink",
+    hex: "#ffc0cb",
+    red: "255",
+    green: "192",
+    blue: "203",
+    hue: "349.5",
+    saturation: "100%",
+    lightness: "87.60%"
+
+}, {
+    name: "PinkFlamingo",
+    hex: "#fc74fd",
+    red: "252",
+    green: "116",
+    blue: "253",
+    hue: "299.6",
+    saturation: "97.20%",
+    lightness: "72.40%"
+
+}, {
+    name: "PinkSherbet",
+    hex: "#f78fa7",
+    red: "247",
+    green: "143",
+    blue: "167",
+    hue: "346.2",
+    saturation: "86.70%",
+    lightness: "76.50%"
+
+}, {
+    name: "Pinkpearl",
+    hex: "#e7accf",
+    red: "231",
+    green: "172",
+    blue: "207",
+    hue: "324.4",
+    saturation: "55.10%",
+    lightness: "79%"
+
+}, {
+    name: "Pistachio",
+    hex: "#93c572",
+    red: "147",
+    green: "197",
+    blue: "114",
+    hue: "96.1",
+    saturation: "41.70%",
+    lightness: "61%"
+
+}, {
+    name: "Platinum",
+    hex: "#e5e4e2",
+    red: "229",
+    green: "228",
+    blue: "226",
+    hue: "40",
+    saturation: "5.50%",
+    lightness: "89.20%"
+
+}, {
+    name: "Plum",
+    hex: "#dda0dd",
+    red: "221",
+    green: "160",
+    blue: "221",
+    hue: "300",
+    saturation: "47.30%",
+    lightness: "74.70%"
+
+}, {
+    name: "PortlandOrange",
+    hex: "#ff5a36",
+    red: "255",
+    green: "90",
+    blue: "54",
+    hue: "10.7",
+    saturation: "100%",
+    lightness: "60.60%"
+
+}, {
+    name: "Powderblue",
+    hex: "#b0e0e6",
+    red: "176",
+    green: "224",
+    blue: "230",
+    hue: "186.7",
+    saturation: "51.90%",
+    lightness: "79.60%"
+
+}, {
+    name: "Princetonorange",
+    hex: "#ff8f00",
+    red: "255",
+    green: "143",
+    blue: "0",
+    hue: "33.6",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Prussianblue",
+    hex: "#003153",
+    red: "0",
+    green: "49",
+    blue: "83",
+    hue: "204.6",
+    saturation: "100%",
+    lightness: "16.30%"
+
+}, {
+    name: "Psychedelicpurple",
+    hex: "#df00ff",
+    red: "223",
+    green: "0",
+    blue: "255",
+    hue: "292.5",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Puce",
+    hex: "#cc8899",
+    red: "204",
+    green: "136",
+    blue: "153",
+    hue: "345",
+    saturation: "40%",
+    lightness: "66.70%"
+
+}, {
+    name: "Pumpkin",
+    hex: "#ff7518",
+    red: "255",
+    green: "117",
+    blue: "24",
+    hue: "24.2",
+    saturation: "100%",
+    lightness: "54.70%"
+
+}, {
+    name: "Purple",
+    hex: "#800080",
+    red: "128",
+    green: "0",
+    blue: "128",
+    hue: "300",
+    saturation: "100%",
+    lightness: "25.10%"
+
+}, {
+    name: "PurpleHeart",
+    hex: "#69359c",
+    red: "105",
+    green: "53",
+    blue: "156",
+    hue: "270.3",
+    saturation: "49.30%",
+    lightness: "41%"
+
+}, {
+    name: "PurpleMountain'sMajesty",
+    hex: "#9d81ba",
+    red: "157",
+    green: "129",
+    blue: "186",
+    hue: "269.5",
+    saturation: "29.20%",
+    lightness: "61.80%"
+
+}, {
+    name: "Purplemountainmajesty",
+    hex: "#9678b6",
+    red: "150",
+    green: "120",
+    blue: "182",
+    hue: "269",
+    saturation: "29.80%",
+    lightness: "59.20%"
+
+}, {
+    name: "Purplepizzazz",
+    hex: "#fe4eda",
+    red: "254",
+    green: "78",
+    blue: "218",
+    hue: "312.3",
+    saturation: "98.90%",
+    lightness: "65.10%"
+
+}, {
+    name: "Purpletaupe",
+    hex: "#50404d",
+    red: "80",
+    green: "64",
+    blue: "77",
+    hue: "311.3",
+    saturation: "11.10%",
+    lightness: "28.20%"
+
+}, {
+    name: "Rackley",
+    hex: "#5d8aa8",
+    red: "93",
+    green: "138",
+    blue: "168",
+    hue: "204",
+    saturation: "30.10%",
+    lightness: "51.20%"
+
+}, {
+    name: "RadicalRed",
+    hex: "#ff355e",
+    red: "255",
+    green: "53",
+    blue: "94",
+    hue: "347.8",
+    saturation: "100%",
+    lightness: "60.40%"
+
+}, {
+    name: "Raspberry",
+    hex: "#e30b5d",
+    red: "227",
+    green: "11",
+    blue: "93",
+    hue: "337.2",
+    saturation: "90.80%",
+    lightness: "46.70%"
+
+}, {
+    name: "Raspberryglace",
+    hex: "#915f6d",
+    red: "145",
+    green: "95",
+    blue: "109",
+    hue: "343.2",
+    saturation: "20.80%",
+    lightness: "47.10%"
+
+}, {
+    name: "Raspberrypink",
+    hex: "#e25098",
+    red: "226",
+    green: "80",
+    blue: "152",
+    hue: "330.4",
+    saturation: "71.60%",
+    lightness: "60%"
+
+}, {
+    name: "Raspberryrose",
+    hex: "#b3446c",
+    red: "179",
+    green: "68",
+    blue: "108",
+    hue: "338.4",
+    saturation: "44.90%",
+    lightness: "48.40%"
+
+}, {
+    name: "RawSienna",
+    hex: "#d68a59",
+    red: "214",
+    green: "138",
+    blue: "89",
+    hue: "23.5",
+    saturation: "60.40%",
+    lightness: "59.40%"
+
+}, {
+    name: "Razzledazzlerose",
+    hex: "#ff33cc",
+    red: "255",
+    green: "51",
+    blue: "204",
+    hue: "315",
+    saturation: "100%",
+    lightness: "60%"
+
+}, {
+    name: "Razzmatazz",
+    hex: "#e3256b",
+    red: "227",
+    green: "37",
+    blue: "107",
+    hue: "337.9",
+    saturation: "77.20%",
+    lightness: "51.80%"
+
+}, {
+    name: "Red",
+    hex: "#ff0000",
+    red: "255",
+    green: "0",
+    blue: "0",
+    hue: "0",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "RedOrange",
+    hex: "#ff5349",
+    red: "255",
+    green: "83",
+    blue: "73",
+    hue: "3.3",
+    saturation: "100%",
+    lightness: "64.30%"
+
+}, {
+    name: "Redbrown",
+    hex: "#a52a2a",
+    red: "165",
+    green: "42",
+    blue: "42",
+    hue: "0",
+    saturation: "59.40%",
+    lightness: "40.60%"
+
+}, {
+    name: "Redviolet",
+    hex: "#c71585",
+    red: "199",
+    green: "21",
+    blue: "133",
+    hue: "322.2",
+    saturation: "80.90%",
+    lightness: "43.10%"
+
+}, {
+    name: "Richblack",
+    hex: "#004040",
+    red: "0",
+    green: "64",
+    blue: "64",
+    hue: "180",
+    saturation: "100%",
+    lightness: "12.50%"
+
+}, {
+    name: "Richcarmine",
+    hex: "#d70040",
+    red: "215",
+    green: "0",
+    blue: "64",
+    hue: "342.1",
+    saturation: "100%",
+    lightness: "42.20%"
+
+}, {
+    name: "Richelectricblue",
+    hex: "#0892d0",
+    red: "8",
+    green: "146",
+    blue: "208",
+    hue: "198.6",
+    saturation: "92.60%",
+    lightness: "42.40%"
+
+}, {
+    name: "Richlilac",
+    hex: "#b666d2",
+    red: "182",
+    green: "102",
+    blue: "210",
+    hue: "284.4",
+    saturation: "54.50%",
+    lightness: "61.20%"
+
+}, {
+    name: "Richmaroon",
+    hex: "#b03060",
+    red: "176",
+    green: "48",
+    blue: "96",
+    hue: "337.5",
+    saturation: "57.10%",
+    lightness: "43.90%"
+
+}, {
+    name: "Riflegreen",
+    hex: "#414833",
+    red: "65",
+    green: "72",
+    blue: "51",
+    hue: "80",
+    saturation: "17.10%",
+    lightness: "24.10%"
+
+}, {
+    name: "Robin'sEggBlue",
+    hex: "#1fcecb",
+    red: "31",
+    green: "206",
+    blue: "203",
+    hue: "179",
+    saturation: "73.80%",
+    lightness: "46.50%"
+
+}, {
+    name: "Rose",
+    hex: "#ff007f",
+    red: "255",
+    green: "0",
+    blue: "127",
+    hue: "330.1",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Rosebonbon",
+    hex: "#f9429e",
+    red: "249",
+    green: "66",
+    blue: "158",
+    hue: "329.8",
+    saturation: "93.80%",
+    lightness: "61.80%"
+
+}, {
+    name: "Roseebony",
+    hex: "#674846",
+    red: "103",
+    green: "72",
+    blue: "70",
+    hue: "3.6",
+    saturation: "19.10%",
+    lightness: "33.90%"
+
+}, {
+    name: "Rosegold",
+    hex: "#b76e79",
+    red: "183",
+    green: "110",
+    blue: "121",
+    hue: "351",
+    saturation: "33.60%",
+    lightness: "57.50%"
+
+}, {
+    name: "Rosemadder",
+    hex: "#e32636",
+    red: "227",
+    green: "38",
+    blue: "54",
+    hue: "354.9",
+    saturation: "77.10%",
+    lightness: "52%"
+
+}, {
+    name: "Rosepink",
+    hex: "#ff66cc",
+    red: "255",
+    green: "102",
+    blue: "204",
+    hue: "320",
+    saturation: "100%",
+    lightness: "70%"
+
+}, {
+    name: "Rosequartz",
+    hex: "#aa98a9",
+    red: "170",
+    green: "152",
+    blue: "169",
+    hue: "303.3",
+    saturation: "9.60%",
+    lightness: "63.10%"
+
+}, {
+    name: "Rosetaupe",
+    hex: "#905d5d",
+    red: "144",
+    green: "93",
+    blue: "93",
+    hue: "0",
+    saturation: "21.50%",
+    lightness: "46.50%"
+
+}, {
+    name: "Rosevale",
+    hex: "#ab4e52",
+    red: "171",
+    green: "78",
+    blue: "82",
+    hue: "357.4",
+    saturation: "37.30%",
+    lightness: "48.80%"
+
+}, {
+    name: "Rosewood",
+    hex: "#65000b",
+    red: "101",
+    green: "0",
+    blue: "11",
+    hue: "353.5",
+    saturation: "100%",
+    lightness: "19.80%"
+
+}, {
+    name: "Rossocorsa",
+    hex: "#d40000",
+    red: "212",
+    green: "0",
+    blue: "0",
+    hue: "0",
+    saturation: "100%",
+    lightness: "41.60%"
+
+}, {
+    name: "Rosybrown",
+    hex: "#bc8f8f",
+    red: "188",
+    green: "143",
+    blue: "143",
+    hue: "0",
+    saturation: "25.10%",
+    lightness: "64.90%"
+
+}, {
+    name: "Royalazure",
+    hex: "#0038a8",
+    red: "0",
+    green: "56",
+    blue: "168",
+    hue: "220",
+    saturation: "100%",
+    lightness: "32.90%"
+
+}, {
+    name: "Royalblue",
+    hex: "#4169e1",
+    red: "65",
+    green: "105",
+    blue: "225",
+    hue: "225",
+    saturation: "72.70%",
+    lightness: "56.90%"
+
+}, {
+    name: "Royalfuchsia",
+    hex: "#ca2c92",
+    red: "202",
+    green: "44",
+    blue: "146",
+    hue: "321.3",
+    saturation: "64.20%",
+    lightness: "48.20%"
+
+}, {
+    name: "Royalpurple",
+    hex: "#7851a9",
+    red: "120",
+    green: "81",
+    blue: "169",
+    hue: "266.6",
+    saturation: "35.20%",
+    lightness: "49%"
+
+}, {
+    name: "Ruby",
+    hex: "#e0115f",
+    red: "224",
+    green: "17",
+    blue: "95",
+    hue: "337.4",
+    saturation: "85.90%",
+    lightness: "47.30%"
+
+}, {
+    name: "Ruddy",
+    hex: "#ff0028",
+    red: "255",
+    green: "0",
+    blue: "40",
+    hue: "350.6",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Ruddybrown",
+    hex: "#bb6528",
+    red: "187",
+    green: "101",
+    blue: "40",
+    hue: "24.9",
+    saturation: "64.80%",
+    lightness: "44.50%"
+
+}, {
+    name: "Ruddypink",
+    hex: "#e18e96",
+    red: "225",
+    green: "142",
+    blue: "150",
+    hue: "354.2",
+    saturation: "58%",
+    lightness: "72%"
+
+}, {
+    name: "Rufous",
+    hex: "#a81c07",
+    red: "168",
+    green: "28",
+    blue: "7",
+    hue: "7.8",
+    saturation: "92%",
+    lightness: "34.30%"
+
+}, {
+    name: "Russet",
+    hex: "#80461b",
+    red: "128",
+    green: "70",
+    blue: "27",
+    hue: "25.5",
+    saturation: "65.20%",
+    lightness: "30.40%"
+
+}, {
+    name: "Rust",
+    hex: "#b7410e",
+    red: "183",
+    green: "65",
+    blue: "14",
+    hue: "18.1",
+    saturation: "85.80%",
+    lightness: "38.60%"
+
+}, {
+    name: "SacramentoStategreen",
+    hex: "#00563f",
+    red: "0",
+    green: "86",
+    blue: "63",
+    hue: "164",
+    saturation: "100%",
+    lightness: "16.90%"
+
+}, {
+    name: "Saddlebrown",
+    hex: "#8b4513",
+    red: "139",
+    green: "69",
+    blue: "19",
+    hue: "25",
+    saturation: "75.90%",
+    lightness: "31%"
+
+}, {
+    name: "Safetyorange",
+    hex: "#ff6700",
+    red: "255",
+    green: "103",
+    blue: "0",
+    hue: "24.2",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Saffron",
+    hex: "#f4c430",
+    red: "244",
+    green: "196",
+    blue: "48",
+    hue: "45.3",
+    saturation: "89.90%",
+    lightness: "57.30%"
+
+}, {
+    name: "SaintPatrickBlue",
+    hex: "#23297a",
+    red: "35",
+    green: "41",
+    blue: "122",
+    hue: "235.9",
+    saturation: "55.40%",
+    lightness: "30.80%"
+
+}, {
+    name: "Salmon",
+    hex: "#ff8c69",
+    red: "255",
+    green: "140",
+    blue: "105",
+    hue: "14",
+    saturation: "100%",
+    lightness: "70.60%"
+
+}, {
+    name: "Salmonpink",
+    hex: "#ff91a4",
+    red: "255",
+    green: "145",
+    blue: "164",
+    hue: "349.6",
+    saturation: "100%",
+    lightness: "78.40%"
+
+}, {
+    name: "Sand",
+    hex: "#c2b280",
+    red: "194",
+    green: "178",
+    blue: "128",
+    hue: "45.5",
+    saturation: "35.10%",
+    lightness: "63.10%"
+
+}, {
+    name: "Sanddune",
+    hex: "#967117",
+    red: "150",
+    green: "113",
+    blue: "23",
+    hue: "42.5",
+    saturation: "73.40%",
+    lightness: "33.90%"
+
+}, {
+    name: "Sandstorm",
+    hex: "#ecd540",
+    red: "236",
+    green: "213",
+    blue: "64",
+    hue: "52",
+    saturation: "81.90%",
+    lightness: "58.80%"
+
+}, {
+    name: "Sandybrown",
+    hex: "#f4a460",
+    red: "244",
+    green: "164",
+    blue: "96",
+    hue: "27.6",
+    saturation: "87.10%",
+    lightness: "66.70%"
+
+}, {
+    name: "Sandytaupe",
+    hex: "#967117",
+    red: "150",
+    green: "113",
+    blue: "23",
+    hue: "42.5",
+    saturation: "73.40%",
+    lightness: "33.90%"
+
+}, {
+    name: "Sapgreen",
+    hex: "#507d2a",
+    red: "80",
+    green: "125",
+    blue: "42",
+    hue: "92.5",
+    saturation: "49.70%",
+    lightness: "32.70%"
+
+}, {
+    name: "Sapphire",
+    hex: "#0f52ba",
+    red: "15",
+    green: "82",
+    blue: "186",
+    hue: "216.5",
+    saturation: "85.10%",
+    lightness: "39.40%"
+
+}, {
+    name: "Satinsheengold",
+    hex: "#cba135",
+    red: "203",
+    green: "161",
+    blue: "53",
+    hue: "43.2",
+    saturation: "59.10%",
+    lightness: "50.20%"
+
+}, {
+    name: "Scarlet",
+    hex: "#ff2400",
+    red: "255",
+    green: "36",
+    blue: "0",
+    hue: "8.5",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Schoolbusyellow",
+    hex: "#ffd800",
+    red: "255",
+    green: "216",
+    blue: "0",
+    hue: "50.8",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "ScreaminGreen",
+    hex: "#76ff7a",
+    red: "118",
+    green: "255",
+    blue: "122",
+    hue: "121.8",
+    saturation: "100%",
+    lightness: "73.10%"
+
+}, {
+    name: "Seablue",
+    hex: "#006994",
+    red: "0",
+    green: "105",
+    blue: "148",
+    hue: "197.4",
+    saturation: "100%",
+    lightness: "29%"
+
+}, {
+    name: "Seagreen",
+    hex: "#2e8b57",
+    red: "46",
+    green: "139",
+    blue: "87",
+    hue: "146.5",
+    saturation: "50.30%",
+    lightness: "36.30%"
+
+}, {
+    name: "Sealbrown",
+    hex: "#321414",
+    red: "50",
+    green: "20",
+    blue: "20",
+    hue: "0",
+    saturation: "42.90%",
+    lightness: "13.70%"
+
+}, {
+    name: "Seashell",
+    hex: "#fff5ee",
+    red: "255",
+    green: "245",
+    blue: "238",
+    hue: "24.7",
+    saturation: "100%",
+    lightness: "96.70%"
+
+}, {
+    name: "Selectiveyellow",
+    hex: "#ffba00",
+    red: "255",
+    green: "186",
+    blue: "0",
+    hue: "43.8",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Sepia",
+    hex: "#704214",
+    red: "112",
+    green: "66",
+    blue: "20",
+    hue: "30",
+    saturation: "69.70%",
+    lightness: "25.90%"
+
+}, {
+    name: "Shadow",
+    hex: "#8a795d",
+    red: "138",
+    green: "121",
+    blue: "93",
+    hue: "37.3",
+    saturation: "19.50%",
+    lightness: "45.30%"
+
+}, {
+    name: "Shamrock",
+    hex: "#45cea2",
+    red: "69",
+    green: "206",
+    blue: "162",
+    hue: "160.7",
+    saturation: "58.30%",
+    lightness: "53.90%"
+
+}, {
+    name: "Shamrockgreen",
+    hex: "#009e60",
+    red: "0",
+    green: "158",
+    blue: "96",
+    hue: "156.5",
+    saturation: "100%",
+    lightness: "31%"
+
+}, {
+    name: "Shockingpink",
+    hex: "#fc0fc0",
+    red: "252",
+    green: "15",
+    blue: "192",
+    hue: "315.2",
+    saturation: "97.50%",
+    lightness: "52.40%"
+
+}, {
+    name: "Sienna",
+    hex: "#882d17",
+    red: "136",
+    green: "45",
+    blue: "23",
+    hue: "11.7",
+    saturation: "71.10%",
+    lightness: "31.20%"
+
+}, {
+    name: "Silver",
+    hex: "#c0c0c0",
+    red: "192",
+    green: "192",
+    blue: "192",
+    hue: "0",
+    saturation: "0%",
+    lightness: "75.30%"
+
+}, {
+    name: "Sinopia",
+    hex: "#cb410b",
+    red: "203",
+    green: "65",
+    blue: "11",
+    hue: "16.9",
+    saturation: "89.70%",
+    lightness: "42%"
+
+}, {
+    name: "Skobeloff",
+    hex: "#007474",
+    red: "0",
+    green: "116",
+    blue: "116",
+    hue: "180",
+    saturation: "100%",
+    lightness: "22.70%"
+
+}, {
+    name: "Skyblue",
+    hex: "#87ceeb",
+    red: "135",
+    green: "206",
+    blue: "235",
+    hue: "197.4",
+    saturation: "71.40%",
+    lightness: "72.50%"
+
+}, {
+    name: "Skymagenta",
+    hex: "#cf71af",
+    red: "207",
+    green: "113",
+    blue: "175",
+    hue: "320.4",
+    saturation: "49.50%",
+    lightness: "62.70%"
+
+}, {
+    name: "Slateblue",
+    hex: "#6a5acd",
+    red: "106",
+    green: "90",
+    blue: "205",
+    hue: "248.3",
+    saturation: "53.50%",
+    lightness: "57.80%"
+
+}, {
+    name: "Slategray",
+    hex: "#708090",
+    red: "112",
+    green: "128",
+    blue: "144",
+    hue: "210",
+    saturation: "12.60%",
+    lightness: "50.20%"
+
+}, {
+    name: "Smalt",
+    hex: "#003399",
+    red: "0",
+    green: "51",
+    blue: "153",
+    hue: "220",
+    saturation: "100%",
+    lightness: "30%"
+
+}, {
+    name: "Smokeytopaz",
+    hex: "#933d41",
+    red: "147",
+    green: "61",
+    blue: "65",
+    hue: "357.2",
+    saturation: "41.30%",
+    lightness: "40.80%"
+
+}, {
+    name: "Smokyblack",
+    hex: "#100c08",
+    red: "16",
+    green: "12",
+    blue: "8",
+    hue: "30",
+    saturation: "33.30%",
+    lightness: "4.70%"
+
+}, {
+    name: "Snow",
+    hex: "#fffafa",
+    red: "255",
+    green: "250",
+    blue: "250",
+    hue: "0",
+    saturation: "100%",
+    lightness: "99%"
+
+}, {
+    name: "SpiroDiscoBall",
+    hex: "#0fc0fc",
+    red: "15",
+    green: "192",
+    blue: "252",
+    hue: "195.2",
+    saturation: "97.50%",
+    lightness: "52.40%"
+
+}, {
+    name: "Springbud",
+    hex: "#a7fc00",
+    red: "167",
+    green: "252",
+    blue: "0",
+    hue: "80.2",
+    saturation: "100%",
+    lightness: "49.40%"
+
+}, {
+    name: "Springgreen",
+    hex: "#00ff7f",
+    red: "0",
+    green: "255",
+    blue: "127",
+    hue: "149.9",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Steelblue",
+    hex: "#4682b4",
+    red: "70",
+    green: "130",
+    blue: "180",
+    hue: "207.3",
+    saturation: "44%",
+    lightness: "49%"
+
+}, {
+    name: "Stildegrainyellow",
+    hex: "#fada5e",
+    red: "250",
+    green: "218",
+    blue: "94",
+    hue: "47.7",
+    saturation: "94%",
+    lightness: "67.50%"
+
+}, {
+    name: "Stizza",
+    hex: "#990000",
+    red: "153",
+    green: "0",
+    blue: "0",
+    hue: "0",
+    saturation: "100%",
+    lightness: "30%"
+
+}, {
+    name: "Stormcloud",
+    hex: "#008080",
+    red: "0",
+    green: "128",
+    blue: "128",
+    hue: "180",
+    saturation: "100%",
+    lightness: "25.10%"
+
+}, {
+    name: "Straw",
+    hex: "#e4d96f",
+    red: "228",
+    green: "217",
+    blue: "111",
+    hue: "54.4",
+    saturation: "68.40%",
+    lightness: "66.50%"
+
+}, {
+    name: "Sunglow",
+    hex: "#ffcc33",
+    red: "255",
+    green: "204",
+    blue: "51",
+    hue: "45",
+    saturation: "100%",
+    lightness: "60%"
+
+}, {
+    name: "Sunset",
+    hex: "#fad6a5",
+    red: "250",
+    green: "214",
+    blue: "165",
+    hue: "34.6",
+    saturation: "89.50%",
+    lightness: "81.40%"
+
+}, {
+    name: "SunsetOrange",
+    hex: "#fd5e53",
+    red: "253",
+    green: "94",
+    blue: "83",
+    hue: "3.9",
+    saturation: "97.70%",
+    lightness: "65.90%"
+
+}, {
+    name: "Tan",
+    hex: "#d2b48c",
+    red: "210",
+    green: "180",
+    blue: "140",
+    hue: "34.3",
+    saturation: "43.80%",
+    lightness: "68.60%"
+
+}, {
+    name: "Tangelo",
+    hex: "#f94d00",
+    red: "249",
+    green: "77",
+    blue: "0",
+    hue: "18.6",
+    saturation: "100%",
+    lightness: "48.80%"
+
+}, {
+    name: "Tangerine",
+    hex: "#f28500",
+    red: "242",
+    green: "133",
+    blue: "0",
+    hue: "33",
+    saturation: "100%",
+    lightness: "47.50%"
+
+}, {
+    name: "Tangerineyellow",
+    hex: "#ffcc00",
+    red: "255",
+    green: "204",
+    blue: "0",
+    hue: "48",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Taupe",
+    hex: "#483c32",
+    red: "72",
+    green: "60",
+    blue: "50",
+    hue: "27.3",
+    saturation: "18%",
+    lightness: "23.90%"
+
+}, {
+    name: "Taupegray",
+    hex: "#8b8589",
+    red: "139",
+    green: "133",
+    blue: "137",
+    hue: "320",
+    saturation: "2.50%",
+    lightness: "53.30%"
+
+}, {
+    name: "Tawny",
+    hex: "#cd5700",
+    red: "205",
+    green: "87",
+    blue: "0",
+    hue: "25.5",
+    saturation: "100%",
+    lightness: "40.20%"
+
+}, {
+    name: "Teagreen",
+    hex: "#d0f0c0",
+    red: "208",
+    green: "240",
+    blue: "192",
+    hue: "100",
+    saturation: "61.50%",
+    lightness: "84.70%"
+
+}, {
+    name: "Tearose",
+    hex: "#f4c2c2",
+    red: "244",
+    green: "194",
+    blue: "194",
+    hue: "0",
+    saturation: "69.40%",
+    lightness: "85.90%"
+
+}, {
+    name: "Teal",
+    hex: "#008080",
+    red: "0",
+    green: "128",
+    blue: "128",
+    hue: "180",
+    saturation: "100%",
+    lightness: "25.10%"
+
+}, {
+    name: "Tealblue",
+    hex: "#367588",
+    red: "54",
+    green: "117",
+    blue: "136",
+    hue: "193.9",
+    saturation: "43.20%",
+    lightness: "37.30%"
+
+}, {
+    name: "Tealgreen",
+    hex: "#006d5b",
+    red: "0",
+    green: "109",
+    blue: "91",
+    hue: "170.1",
+    saturation: "100%",
+    lightness: "21.40%"
+
+}, {
+    name: "Terracotta",
+    hex: "#e2725b",
+    red: "226",
+    green: "114",
+    blue: "91",
+    hue: "10.2",
+    saturation: "69.90%",
+    lightness: "62.20%"
+
+}, {
+    name: "Thistle",
+    hex: "#d8bfd8",
+    red: "216",
+    green: "191",
+    blue: "216",
+    hue: "300",
+    saturation: "24.30%",
+    lightness: "79.80%"
+
+}, {
+    name: "Thulianpink",
+    hex: "#de6fa1",
+    red: "222",
+    green: "111",
+    blue: "161",
+    hue: "333",
+    saturation: "62.70%",
+    lightness: "65.30%"
+
+}, {
+    name: "TickleMePink",
+    hex: "#fc89ac",
+    red: "252",
+    green: "137",
+    blue: "172",
+    hue: "341.7",
+    saturation: "95%",
+    lightness: "76.30%"
+
+}, {
+    name: "TiffanyBlue",
+    hex: "#0abab5",
+    red: "10",
+    green: "186",
+    blue: "181",
+    hue: "178.3",
+    saturation: "89.80%",
+    lightness: "38.40%"
+
+}, {
+    name: "Tigereye",
+    hex: "#e08d3c",
+    red: "224",
+    green: "141",
+    blue: "60",
+    hue: "29.6",
+    saturation: "72.60%",
+    lightness: "55.70%"
+
+}, {
+    name: "Timberwolf",
+    hex: "#dbd7d2",
+    red: "219",
+    green: "215",
+    blue: "210",
+    hue: "33.3",
+    saturation: "11.10%",
+    lightness: "84.10%"
+
+}, {
+    name: "Titaniumyellow",
+    hex: "#eee600",
+    red: "238",
+    green: "230",
+    blue: "0",
+    hue: "58",
+    saturation: "100%",
+    lightness: "46.70%"
+
+}, {
+    name: "Tomato",
+    hex: "#ff6347",
+    red: "255",
+    green: "99",
+    blue: "71",
+    hue: "9.1",
+    saturation: "100%",
+    lightness: "63.90%"
+
+}, {
+    name: "Toolbox",
+    hex: "#746cc0",
+    red: "116",
+    green: "108",
+    blue: "192",
+    hue: "245.7",
+    saturation: "40%",
+    lightness: "58.80%"
+
+}, {
+    name: "Topaz",
+    hex: "#ffc87c",
+    red: "255",
+    green: "200",
+    blue: "124",
+    hue: "34.8",
+    saturation: "100%",
+    lightness: "74.30%"
+
+}, {
+    name: "Tractorred",
+    hex: "#fd0e35",
+    red: "253",
+    green: "14",
+    blue: "53",
+    hue: "350.2",
+    saturation: "98.40%",
+    lightness: "52.40%"
+
+}, {
+    name: "TrolleyGrey",
+    hex: "#808080",
+    red: "128",
+    green: "128",
+    blue: "128",
+    hue: "0",
+    saturation: "0%",
+    lightness: "50.20%"
+
+}, {
+    name: "Tropicalrainforest",
+    hex: "#00755e",
+    red: "0",
+    green: "117",
+    blue: "94",
+    hue: "168.2",
+    saturation: "100%",
+    lightness: "22.90%"
+
+}, {
+    name: "TrueBlue",
+    hex: "#0073cf",
+    red: "0",
+    green: "115",
+    blue: "207",
+    hue: "206.7",
+    saturation: "100%",
+    lightness: "40.60%"
+
+}, {
+    name: "TuftsBlue",
+    hex: "#417dc1",
+    red: "65",
+    green: "125",
+    blue: "193",
+    hue: "211.9",
+    saturation: "50.80%",
+    lightness: "50.60%"
+
+}, {
+    name: "Tumbleweed",
+    hex: "#deaa88",
+    red: "222",
+    green: "170",
+    blue: "136",
+    hue: "23.7",
+    saturation: "56.60%",
+    lightness: "70.20%"
+
+}, {
+    name: "Turkishrose",
+    hex: "#b57281",
+    red: "181",
+    green: "114",
+    blue: "129",
+    hue: "346.6",
+    saturation: "31.20%",
+    lightness: "57.80%"
+
+}, {
+    name: "Turquoise",
+    hex: "#30d5c8",
+    red: "48",
+    green: "213",
+    blue: "200",
+    hue: "175.3",
+    saturation: "66.30%",
+    lightness: "51.20%"
+
+}, {
+    name: "Turquoiseblue",
+    hex: "#00ffef",
+    red: "0",
+    green: "255",
+    blue: "239",
+    hue: "176.2",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Turquoisegreen",
+    hex: "#a0d6b4",
+    red: "160",
+    green: "214",
+    blue: "180",
+    hue: "142.2",
+    saturation: "39.70%",
+    lightness: "73.30%"
+
+}, {
+    name: "Tuscanred",
+    hex: "#66424d",
+    red: "102",
+    green: "66",
+    blue: "77",
+    hue: "341.7",
+    saturation: "21.40%",
+    lightness: "32.90%"
+
+}, {
+    name: "Twilightlavender",
+    hex: "#8a496b",
+    red: "138",
+    green: "73",
+    blue: "107",
+    hue: "328.6",
+    saturation: "30.80%",
+    lightness: "41.40%"
+
+}, {
+    name: "Tyrianpurple",
+    hex: "#66023c",
+    red: "102",
+    green: "2",
+    blue: "60",
+    hue: "325.2",
+    saturation: "96.20%",
+    lightness: "20.40%"
+
+}, {
+    name: "UAblue",
+    hex: "#0033aa",
+    red: "0",
+    green: "51",
+    blue: "170",
+    hue: "222",
+    saturation: "100%",
+    lightness: "33.30%"
+
+}, {
+    name: "UAred",
+    hex: "#d9004c",
+    red: "217",
+    green: "0",
+    blue: "76",
+    hue: "339",
+    saturation: "100%",
+    lightness: "42.50%"
+
+}, {
+    name: "UCLABlue",
+    hex: "#536895",
+    red: "83",
+    green: "104",
+    blue: "149",
+    hue: "220.9",
+    saturation: "28.40%",
+    lightness: "45.50%"
+
+}, {
+    name: "UCLAGold",
+    hex: "#ffb300",
+    red: "255",
+    green: "179",
+    blue: "0",
+    hue: "42.1",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "UFOGreen",
+    hex: "#3cd070",
+    red: "60",
+    green: "208",
+    blue: "112",
+    hue: "141.1",
+    saturation: "61.20%",
+    lightness: "52.50%"
+
+}, {
+    name: "UPForestgreen",
+    hex: "#014421",
+    red: "1",
+    green: "68",
+    blue: "33",
+    hue: "148.7",
+    saturation: "97.10%",
+    lightness: "13.50%"
+
+}, {
+    name: "UPMaroon",
+    hex: "#7b1113",
+    red: "123",
+    green: "17",
+    blue: "19",
+    hue: "358.9",
+    saturation: "75.70%",
+    lightness: "27.50%"
+
+}, {
+    name: "USCCardinal",
+    hex: "#990000",
+    red: "153",
+    green: "0",
+    blue: "0",
+    hue: "0",
+    saturation: "100%",
+    lightness: "30%"
+
+}, {
+    name: "USCGold",
+    hex: "#ffcc00",
+    red: "255",
+    green: "204",
+    blue: "0",
+    hue: "48",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Ube",
+    hex: "#8878c3",
+    red: "136",
+    green: "120",
+    blue: "195",
+    hue: "252.8",
+    saturation: "38.50%",
+    lightness: "61.80%"
+
+}, {
+    name: "Ultrapink",
+    hex: "#ff6fff",
+    red: "255",
+    green: "111",
+    blue: "255",
+    hue: "300",
+    saturation: "100%",
+    lightness: "71.80%"
+
+}, {
+    name: "Ultramarine",
+    hex: "#120a8f",
+    red: "18",
+    green: "10",
+    blue: "143",
+    hue: "243.6",
+    saturation: "86.90%",
+    lightness: "30%"
+
+}, {
+    name: "Ultramarineblue",
+    hex: "#4166f5",
+    red: "65",
+    green: "102",
+    blue: "245",
+    hue: "227.7",
+    saturation: "90%",
+    lightness: "60.80%"
+
+}, {
+    name: "Umber",
+    hex: "#635147",
+    red: "99",
+    green: "81",
+    blue: "71",
+    hue: "21.4",
+    saturation: "16.50%",
+    lightness: "33.30%"
+
+}, {
+    name: "UnitedNationsblue",
+    hex: "#5b92e5",
+    red: "91",
+    green: "146",
+    blue: "229",
+    hue: "216.1",
+    saturation: "72.60%",
+    lightness: "62.70%"
+
+}, {
+    name: "UniversityofCaliforniaGold",
+    hex: "#b78727",
+    red: "183",
+    green: "135",
+    blue: "39",
+    hue: "40",
+    saturation: "64.90%",
+    lightness: "43.50%"
+
+}, {
+    name: "UnmellowYellow",
+    hex: "#ffff66",
+    red: "255",
+    green: "255",
+    blue: "102",
+    hue: "60",
+    saturation: "100%",
+    lightness: "70%"
+
+}, {
+    name: "Upsdellred",
+    hex: "#ae2029",
+    red: "174",
+    green: "32",
+    blue: "41",
+    hue: "356.2",
+    saturation: "68.90%",
+    lightness: "40.40%"
+
+}, {
+    name: "Urobilin",
+    hex: "#e1ad21",
+    red: "225",
+    green: "173",
+    blue: "33",
+    hue: "43.8",
+    saturation: "76.20%",
+    lightness: "50.60%"
+
+}, {
+    name: "UtahCrimson",
+    hex: "#d3003f",
+    red: "211",
+    green: "0",
+    blue: "63",
+    hue: "342.1",
+    saturation: "100%",
+    lightness: "41.40%"
+
+}, {
+    name: "Vanilla",
+    hex: "#f3e5ab",
+    red: "243",
+    green: "229",
+    blue: "171",
+    hue: "48.3",
+    saturation: "75%",
+    lightness: "81.20%"
+
+}, {
+    name: "Vegasgold",
+    hex: "#c5b358",
+    red: "197",
+    green: "179",
+    blue: "88",
+    hue: "50.1",
+    saturation: "48.40%",
+    lightness: "55.90%"
+
+}, {
+    name: "Venetianred",
+    hex: "#c80815",
+    red: "200",
+    green: "8",
+    blue: "21",
+    hue: "355.9",
+    saturation: "92.30%",
+    lightness: "40.80%"
+
+}, {
+    name: "Verdigris",
+    hex: "#43b3ae",
+    red: "67",
+    green: "179",
+    blue: "174",
+    hue: "177.3",
+    saturation: "45.50%",
+    lightness: "48.20%"
+
+}, {
+    name: "Vermilion",
+    hex: "#e34234",
+    red: "227",
+    green: "66",
+    blue: "52",
+    hue: "4.8",
+    saturation: "75.80%",
+    lightness: "54.70%"
+
+}, {
+    name: "Veronica",
+    hex: "#a020f0",
+    red: "160",
+    green: "32",
+    blue: "240",
+    hue: "276.9",
+    saturation: "87.40%",
+    lightness: "53.30%"
+
+}, {
+    name: "Violet",
+    hex: "#ee82ee",
+    red: "238",
+    green: "130",
+    blue: "238",
+    hue: "300",
+    saturation: "76.10%",
+    lightness: "72.20%"
+
+}, {
+    name: "VioletBlue",
+    hex: "#324ab2",
+    red: "50",
+    green: "74",
+    blue: "178",
+    hue: "228.8",
+    saturation: "56.10%",
+    lightness: "44.70%"
+
+}, {
+    name: "VioletRed",
+    hex: "#f75394",
+    red: "247",
+    green: "83",
+    blue: "148",
+    hue: "336.2",
+    saturation: "91.10%",
+    lightness: "64.70%"
+
+}, {
+    name: "Viridian",
+    hex: "#40826d",
+    red: "64",
+    green: "130",
+    blue: "109",
+    hue: "160.9",
+    saturation: "34%",
+    lightness: "38%"
+
+}, {
+    name: "Vividauburn",
+    hex: "#922724",
+    red: "146",
+    green: "39",
+    blue: "36",
+    hue: "1.6",
+    saturation: "60.40%",
+    lightness: "35.70%"
+
+}, {
+    name: "Vividburgundy",
+    hex: "#9f1d35",
+    red: "159",
+    green: "29",
+    blue: "53",
+    hue: "348.9",
+    saturation: "69.10%",
+    lightness: "36.90%"
+
+}, {
+    name: "Vividcerise",
+    hex: "#da1d81",
+    red: "218",
+    green: "29",
+    blue: "129",
+    hue: "328.3",
+    saturation: "76.50%",
+    lightness: "48.40%"
+
+}, {
+    name: "Vividtangerine",
+    hex: "#ffa089",
+    red: "255",
+    green: "160",
+    blue: "137",
+    hue: "11.7",
+    saturation: "100%",
+    lightness: "76.90%"
+
+}, {
+    name: "Vividviolet",
+    hex: "#9f00ff",
+    red: "159",
+    green: "0",
+    blue: "255",
+    hue: "277.4",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Warmblack",
+    hex: "#004242",
+    red: "0",
+    green: "66",
+    blue: "66",
+    hue: "180",
+    saturation: "100%",
+    lightness: "12.90%"
+
+}, {
+    name: "Waterspout",
+    hex: "#00ffff",
+    red: "0",
+    green: "255",
+    blue: "255",
+    hue: "180",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "Wenge",
+    hex: "#645452",
+    red: "100",
+    green: "84",
+    blue: "82",
+    hue: "6.7",
+    saturation: "9.90%",
+    lightness: "35.70%"
+
+}, {
+    name: "Wheat",
+    hex: "#f5deb3",
+    red: "245",
+    green: "222",
+    blue: "179",
+    hue: "39.1",
+    saturation: "76.70%",
+    lightness: "83.10%"
+
+}, {
+    name: "White",
+    hex: "#ffffff",
+    red: "255",
+    green: "255",
+    blue: "255",
+    hue: "0",
+    saturation: "0%",
+    lightness: "100%"
+
+}, {
+    name: "Whitesmoke",
+    hex: "#f5f5f5",
+    red: "245",
+    green: "245",
+    blue: "245",
+    hue: "0",
+    saturation: "0%",
+    lightness: "96.10%"
+
+}, {
+    name: "WildStrawberry",
+    hex: "#ff43a4",
+    red: "255",
+    green: "67",
+    blue: "164",
+    hue: "329",
+    saturation: "100%",
+    lightness: "63.10%"
+
+}, {
+    name: "WildWatermelon",
+    hex: "#fc6c85",
+    red: "252",
+    green: "108",
+    blue: "133",
+    hue: "349.6",
+    saturation: "96%",
+    lightness: "70.60%"
+
+}, {
+    name: "Wildblueyonder",
+    hex: "#a2add0",
+    red: "162",
+    green: "173",
+    blue: "208",
+    hue: "225.7",
+    saturation: "32.90%",
+    lightness: "72.50%"
+
+}, {
+    name: "Wine",
+    hex: "#722f37",
+    red: "114",
+    green: "47",
+    blue: "55",
+    hue: "352.8",
+    saturation: "41.60%",
+    lightness: "31.60%"
+
+}, {
+    name: "Wisteria",
+    hex: "#c9a0dc",
+    red: "201",
+    green: "160",
+    blue: "220",
+    hue: "281",
+    saturation: "46.20%",
+    lightness: "74.50%"
+
+}, {
+    name: "Xanadu",
+    hex: "#738678",
+    red: "115",
+    green: "134",
+    blue: "120",
+    hue: "135.8",
+    saturation: "7.60%",
+    lightness: "48.80%"
+
+}, {
+    name: "YaleBlue",
+    hex: "#0f4d92",
+    red: "15",
+    green: "77",
+    blue: "146",
+    hue: "211.6",
+    saturation: "81.40%",
+    lightness: "31.60%"
+
+}, {
+    name: "Yellow",
+    hex: "#ffff00",
+    red: "255",
+    green: "255",
+    blue: "0",
+    hue: "60",
+    saturation: "100%",
+    lightness: "50%"
+
+}, {
+    name: "YellowOrange",
+    hex: "#ffae42",
+    red: "255",
+    green: "174",
+    blue: "66",
+    hue: "34.3",
+    saturation: "100%",
+    lightness: "62.90%"
+
+}, {
+    name: "Yellowgreen",
+    hex: "#9acd32",
+    red: "154",
+    green: "205",
+    blue: "50",
+    hue: "79.7",
+    saturation: "60.80%",
+    lightness: "50%"
+
+}, {
+    name: "Zaffre",
+    hex: "#0014a8",
+    red: "0",
+    green: "20",
+    blue: "168",
+    hue: "232.9",
+    saturation: "100%",
+    lightness: "32.90%"
+
+}, {
+    name: "Zinnwalditebrown",
+    hex: "#2c1608",
+    red: "44",
+    green: "22",
+    blue: "8",
+    hue: "23.3",
+    saturation: "69.20%",
+    lightness: "10.20%"
+}];
