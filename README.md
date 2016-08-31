@@ -1,8 +1,8 @@
-# color-randomizer
-:rainbow::red_circle::blue_circle::yellow_circle::rainbow:
+# :rainbow: :rainbow::rainbow: color-randomizer :rainbow: :rainbow: :rainbow: 
+
 Generate random colors
-:rainbow::rainbow:
-## Intall
+
+## Install
 ```
 npm install color-randomizer
 ```
