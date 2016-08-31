@@ -1,5 +1,5 @@
 {
-  "name": "random-color-generator",
+  "name": "color-randomizer",
   "version": "1.0.0",
   "description": "Generate Random Colors",
   "main": "index.js",
