@@ -1,7 +1,7 @@
 {
-  "name": "randomcolorgenerator",
+  "name": "random-color-generator",
   "version": "1.0.0",
-  "description": "generate random colors",
+  "description": "Generate Random Colors",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/mschultz4/randomcolorgenerator.git"
   },
-  "author": "Matthew Schultz",
+  "keywords": [
+    "random",
+    "color"
+  ],
+  "author": "Matt Schultz",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mschultz4/randomcolorgenerator/issues"
