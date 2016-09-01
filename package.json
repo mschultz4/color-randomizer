@@ -1,10 +1,10 @@
 {
   "name": "color-randomizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate Random Colors",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mschultz4/color-randomizer/issues"
   },
-  "homepage": "https://github.com/mschultz4/color-randomizer#readme"
+  "homepage": "https://github.com/mschultz4/color-randomizer#readme",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
 }

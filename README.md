@@ -8,12 +8,19 @@ npm install color-randomizer
 ```
 
 ## Use
-### Params
-    {string} type Accepts three types: 'name', 'rgb', 'hex'
+Param {object} options Options object
+
+For example
+```
+var options = {
+    format: 'hex' // returns hex
+}
 
 ```
+more examples
+```
 randomColor(); // default to name
-randomColor('hex');
-randomColor('name');
-randomColor('rgb');
+randomColor({format: 'hex'}); // returns hex
+randomColor({format: 'name'}); // returns name
+randomColor({format: 'rgb'}); // returns rgb
 ```
